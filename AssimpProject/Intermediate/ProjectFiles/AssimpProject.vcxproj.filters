@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AssimpProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F33B7325-2AAF-4FD3-A40B-2B34D4574F01}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AssimpProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AssimpProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0BF2041E-EB5B-4BFB-99CC-49164C2EBA9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AssimpProject">
+      <UniqueIdentifier>{75548B72-0A56-4DFA-ADA4-348823328D60}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AssimpProject\AssimpProject.Build.cs">
+      <Filter>Source\AssimpProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AssimpProject\AssimpProject.cpp">
+      <Filter>Source\AssimpProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AssimpProject\AssimpProject.h">
+      <Filter>Source\AssimpProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AssimpProject\AssimpProjectGameModeBase.cpp">
+      <Filter>Source\AssimpProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AssimpProject\AssimpProjectGameModeBase.h">
+      <Filter>Source\AssimpProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\Definitions.AssimpProject.h
+C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Source\AssimpProject\AssimpProject.h

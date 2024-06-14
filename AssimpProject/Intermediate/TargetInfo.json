@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AssimpProject",
+			"Path": "C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Source\\AssimpProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AssimpProjectEditor",
+			"Path": "C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Source\\AssimpProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
