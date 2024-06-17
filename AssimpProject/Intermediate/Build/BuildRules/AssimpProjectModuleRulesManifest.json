@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
 		"C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Source\\AssimpProject\\AssimpProject.Build.cs",
-		"C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Plugins\\UE4_Assimp\\Source\\UE_Assimp\\UE_Assimp.Build.cs",
 		"C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Plugins\\UE4_Assimp\\Source\\ThirdParty\\UE_AssimpLibrary\\UE_AssimpLibrary.Build.cs",
+		"C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Plugins\\UE4_Assimp\\Source\\UE_Assimp\\UE_Assimp.Build.cs",
 		"C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Source\\AssimpProject.Target.cs",
 		"C:\\Users\\Patay Viki\\onlab\\ASSIMP-UE-demo-tutorial\\AssimpProject\\Source\\AssimpProjectEditor.Target.cs"
 	],
