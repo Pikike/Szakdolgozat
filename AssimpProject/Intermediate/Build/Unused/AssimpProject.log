@@ -1,30 +1,3 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial).
-  Creating makefile for AssimpProjectEditor (game project files are newer)
-  Copying C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\bin\Release\assimp.dll to C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Binaries\Win64\assimp.dll
-UnrealBuildTool : warning : Warning: Plugin 'UE_Assimp' does not list plugin 'GeometryProcessing' as a dependency, but module 'UE_Assimp' depends on 'MeshConversion'.
-  Parsing headers for AssimpProjectEditor
-    Running UnrealHeaderTool "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\AssimpProject.uproject" "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\AssimpProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Patay Viki\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  LogInit: Display: Loading text-based GConfig....
-  Reflection code generated for AssimpProjectEditor in 17,4217085 seconds
-  Building AssimpProjectEditor...
-  Using Visual Studio 2019 14.29.30133 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22621.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 13 actions with 16 processes...
-    [1/13] Default.rc2
-    [2/13] SharedPCH.Engine.ShadowErrors.cpp
-    [3/13] AssimpProject.cpp
-    [4/13] AssimpProjectGameModeBase.cpp
-    [5/13] AssimpProject.init.gen.cpp
-    [6/13] AssimpProjectGameModeBase.gen.cpp
-    [7/13] UE4Editor-AssimpProject.lib
-       Creating library C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\UE4Editor-AssimpProject.lib and object C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\UE4Editor-AssimpProject.exp
-    [8/13] UE4Editor-AssimpProject.dll
-       Creating library C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\UE4Editor-AssimpProject.suppressed.lib and object C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\UE4Editor-AssimpProject.suppressed.exp
-    [9/13] Module.UE_Assimp.gen.cpp
-    [10/13] Module.UE_Assimp.cpp
-    [11/13] UE4Editor-UE_Assimp.lib
-       Creating library C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Development\UE_Assimp\UE4Editor-UE_Assimp.lib and object C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Development\UE_Assimp\UE4Editor-UE_Assimp.exp
-    [12/13] UE4Editor-UE_Assimp.dll
-       Creating library C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Development\UE_Assimp\UE4Editor-UE_Assimp.suppressed.lib and object C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Intermediate\Build\Win64\UE4Editor\Development\UE_Assimp\UE4Editor-UE_Assimp.suppressed.exp
-    [13/13] AssimpProjectEditor.target
-  Total time in Parallel executor: 36,39 seconds
-  Total execution time: 57,30 seconds
+  Target is up to date
+  Total execution time: 0,68 seconds
