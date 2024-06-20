@@ -1,3 +1,6 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial).
+  Invalidating makefile for AssimpProjectEditor (EasyFileDialog.uplugin has been added)
+  Copying C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp\bin\Release\assimp.dll to C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Plugins\UE4_Assimp\Binaries\Win64\assimp.dll
+UnrealBuildTool : warning : Warning: Plugin 'UE_Assimp' does not list plugin 'GeometryProcessing' as a dependency, but module 'UE_Assimp' depends on 'MeshConversion'.
   Target is up to date
-  Total execution time: 0,68 seconds
+  Total execution time: 1,97 seconds
