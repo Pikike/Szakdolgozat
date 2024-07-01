@@ -11269,3 +11269,1405 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.07.01-09.56.35:089][704]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Chair_Blueprint9AD256C0415F191E531B408D2206F57E.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Blueprints/Assets/Chair_Blueprint.uasset'
 [2024.07.01-09.56.35:185][704]AssetCheck: New page: Asset Save: Chair_Blueprint
 [2024.07.01-09.56.35:186][704]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Assets/Chair_Blueprint.Chair_Blueprint
+[2024.07.01-11.48.21:367][202]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.01-11.48.21:383][202]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-11.48.21:383][202]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B8B1F13-4777-9588-F559-B2A399AEB9AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: libcurl info message cache 0 (Connection 14 seems to be dead!)
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: libcurl info message cache 1 (Closing connection 14)
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: libcurl info message cache 2 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.07.01-11.48.21:502][203]LogHttp: Warning: 0000016C29E2EB00: libcurl info message cache 4 (Closing connection 15)
+[2024.07.01-11.48.21:620][204]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B8B1F13-4777-9588-F559-B2A399AEB9AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.07.01-11.48.25:643][216]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{659d043d-ab83-4e36-a96a-73d9f032c2cc}.
+[2024.07.01-11.48.25:959][216]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.01-11.48.25:967][216]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-11.48.25:967][216]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-11.48.39:991][257]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{122e230c-7bf1-49b9-a971-155ba358deae}.
+[2024.07.01-11.48.40:207][257]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.01-11.48.40:224][257]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-11.48.40:224][257]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-12.44.07:270][187]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{659d043d-ab83-4e36-a96a-73d9f032c2cc}.
+[2024.07.01-12.44.07:271][187]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.01-12.44.07:277][187]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-12.44.07:277][187]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-12.49.01:031][ 63]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{122e230c-7bf1-49b9-a971-155ba358deae}.
+[2024.07.01-12.49.01:031][ 63]LogAudioMixer: Resetting audio stream to device id 
+[2024.07.01-12.49.01:038][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-12.49.01:038][ 63]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-12.51.28:029][180]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 0ED832A0F7829DEDF3314DC6FC06E2CB0CE4293F), compiling. 
+[2024.07.01-12.51.28:032][180]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B3EC6B572AEB43BF1CDEBE2B167346C358D92ECB), compiling. 
+[2024.07.01-12.51.28:040][180]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.51.28:040][180]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.28:040][180]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.28:048][181]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.51.28:048][181]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.07.01-12.51.28:048][181]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.07.01-12.51.28:048][181]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.51.28:054][182]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Total job queries 254, among them cache hits 147 (57.87%)
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: Tracking 84 distinct input hashes that result in 55 distinct outputs (65.48%)
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: RAM used: 0.32 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.02%
+[2024.07.01-12.51.28:060][182]LogShaderCompilers: Display: ================================================
+[2024.07.01-12.51.29:660][311]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.51.29:660][311]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.29:660][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.29:806][321]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.07.01-12.51.29:806][321]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.07.01-12.51.29:806][321]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.51.29:806][321]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.51.29:806][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.29:806][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.42:054][680]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 350451212288AAA54C407EA8992C3E2ECDC0761A), compiling. 
+[2024.07.01-12.51.42:058][680]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A3A862FB8986B277D02D75B61AEAC5B35CB6130F), compiling. 
+[2024.07.01-12.51.42:067][680]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.51.42:067][680]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.42:067][680]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.42:074][681]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.51.42:074][681]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.07.01-12.51.42:074][681]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.07.01-12.51.42:074][681]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.51.42:081][682]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.07.01-12.51.42:082][682]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.51.42:794][726]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.51.42:794][726]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.42:794][726]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.42:919][738]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.07.01-12.51.42:919][738]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.07.01-12.51.42:919][738]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.51.42:919][738]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.51.42:919][738]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.42:919][738]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.45:390][982]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 4DF87F60146E00F068C7A6F4100A143402D69746), compiling. 
+[2024.07.01-12.51.45:391][982]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 89357A854C475AAF82842E4641598224B7204342), compiling. 
+[2024.07.01-12.51.45:399][982]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.51.45:399][982]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.45:399][982]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.45:420][984]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.51.45:420][984]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.45:420][984]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.45:434][985]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.07.01-12.51.45:434][985]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.07.01-12.51.45:434][985]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.51.45:434][985]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.51.45:434][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.51.45:434][985]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.51.54:584][990]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0EC7E5F344FC360EDEB7AEAA7445F56F1E763166), compiling. 
+[2024.07.01-12.51.54:585][990]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\EngineMaterials\HighResolutionScreenshotMaskFunction.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2024.07.01-12.51.54:585][990]LogMaterial: Display: 	SceneTexture expressions cannot be used in opaque materials
+[2024.07.01-12.52.02:048][451]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Engine/EngineMaterials/BaseFlattenNormalMap.BaseFlattenNormalMap
+[2024.07.01-12.52.02:066][451]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2024.07.01-12.52.32:849][ 94]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 36F2FAEC2C7F7C157B95C4E13424D02AEB6BA70B), compiling. 
+[2024.07.01-12.52.32:853][ 94]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: CADC014D5EF5F17CFBA8B13136FF9908E1337484), compiling. 
+[2024.07.01-12.52.32:860][ 94]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.52.32:860][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.52.32:860][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.52.32:910][ 95]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.07.01-12.52.32:910][ 95]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.07.01-12.52.32:910][ 95]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.52.32:910][ 95]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.52.32:910][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.52.32:910][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.52.36:643][485]LogMaterialEditor: Saving and Compiling material M_simpleMat
+[2024.07.01-12.52.39:861][485]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: FD245EE080E5EBFB24EE01089197E9733ACF3D39), compiling. 
+[2024.07.01-12.52.39:918][485]LogMaterial: Display: Missing cached shadermap for M_simpleMat in PCD3D_SM5, Default, SM5 (DDC key hash: 059153B730E6BC643C2D60A4EDDEB023585C3600), compiling. 
+[2024.07.01-12.52.39:997][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2024.07.01-12.52.40:002][485]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.52.40:311][485]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2024.07.01-12.52.40:311][485]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.52.40:349][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2024.07.01-12.52.40:426][485]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2024.07.01-12.52.40:433][485]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2024.07.01-12.52.40:433][485]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2024.07.01-12.52.40:433][485]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2024.07.01-12.52.40:433][485]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2024.07.01-12.52.40:433][485]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2024.07.01-12.52.40:433][485]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.52.40:470][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_simpleMat" FILE="../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/M_simpleMat.uasset" SILENT=true
+[2024.07.01-12.52.40:477][485]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/M_simpleMat70638679498B4E974FAC12A6A33D4B24.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/M_simpleMat.uasset'
+[2024.07.01-12.52.40:495][485]AssetCheck: New page: Asset Save: M_simpleMat
+[2024.07.01-12.52.40:495][485]LogContentValidation: Display: Validating Material /Game/M_simpleMat.M_simpleMat
+[2024.07.01-12.52.40:497][485]MaterialEditorStats: Texture samplers: 2/16
+[2024.07.01-12.52.40:497][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.52.40:497][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.52.40:513][486]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.52.40:513][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.52.40:513][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.52.41:080][540]MaterialEditorStats: Texture samplers: 5/16
+[2024.07.01-12.52.41:080][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.52.41:080][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.52.41:098][542]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.07.01-12.52.41:098][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.07.01-12.52.41:098][542]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.52.41:098][542]MaterialEditorStats: Texture samplers: 5/16
+[2024.07.01-12.52.41:098][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.52.41:098][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.52.56:962][737]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.01-12.52.56:968][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.01-12.52.56:968][737]PIE: New page: PIE session: Minimal_Default (2024. júl. 1. 16:52:56)
+[2024.07.01-12.52.56:968][737]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.01-12.52.56:977][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009410s)
+[2024.07.01-12.52.56:979][737]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.07.01-12.52.56:979][737]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2024.07.01-12.52.56:979][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011292s)
+[2024.07.01-12.52.57:002][737]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.07.01-12.52.57:002][737]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.07.01-12.52.57:002][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.01-12.52.57:002][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.01-12.52.57:002][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.01-12.52.57:002][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.01-12.52.57:002][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.01-12.52.57:002][737]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.01-12.52.57:003][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.01-12.52.57:003][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.01-12.52.57:003][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.01-12.52.57:003][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.01-12.52.57:003][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.01-12.52.57:003][737]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.01-12.52.57:006][737]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-12.52.57:006][737]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-12.52.57:016][737]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.07.01-12.52.57:016][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.01-12.52.57:016][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.01-12.52.57:016][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.01-12.52.57:016][737]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.01-12.52.57:016][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.01-12.52.57:016][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.01-12.52.57:018][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.01-12.52.57:018][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.01-12.52.57:018][737]LogInit: FAudioDevice initialized.
+[2024.07.01-12.52.57:018][737]LogAudio: Display: Audio Device (ID: 47) registered with world 'Minimal_Default'.
+[2024.07.01-12.52.57:089][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-12.52.57:090][737]LogLoad: Game class is 'GameModeBase'
+[2024.07.01-12.52.57:091][737]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.07.01-14.52.57
+[2024.07.01-12.52.57:091][737]LogWorld: Bringing up level for play took: 0.000999
+[2024.07.01-12.52.57:093][737]LogOnline: OSS: Creating online subsystem instance for: :Context_53
+[2024.07.01-12.52.57:095][737]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.52.57:096][737]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.07.01-12.52.57:096][737]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.07.01-12.52.57:096][737]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.52.57:096][737]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.52.57:096][737]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.52.57:101][737]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.52.57:101][737]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\'
+[2024.07.01-12.52.57:626][737]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.52.57:627][737]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.52.57:627][737]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.52.57:630][737]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.52.57:630][737]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.52.57:630][737]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.52.57:630][737]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.52.57:630][737]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.52.57:630][737]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.52.57:668][737]LogAssimp: TriangulateProcess finished. All polygons have been triangulated.
+[2024.07.01-12.52.57:668][737]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.52.57:746][737]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.52.57:746][737]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.52.57:746][737]LogAssimp: Points: 0, Lines: 0, Triangles: 11, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.52.57:746][737]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.52.57:746][737]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.52.57:757][737]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.52.57:757][737]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.52.57:757][737]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.52.57:757][737]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.52.57:757][737]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.57:757][737]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.52.57:817][737]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.52.57:817][737]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.57:817][737]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.52.58:013][737]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.52.58:013][737]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.52.58:464][737]LogAssimp: JoinVerticesProcess finished | Verts in: 875256 out: 602659 | ~31.1448
+[2024.07.01-12.52.58:465][737]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.52.58:465][737]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.52.58:465][737]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.52.58:465][737]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.52.58:465][737]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.52.58:506][737]LogAssimp: Cache relevant are 11 meshes (434272 faces). Average output ACMR is 1.48824
+[2024.07.01-12.52.58:506][737]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.52.58:506][737]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.52.58:507][737]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.52.58:507][737]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.52.58:507][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.612584,G=0.176762,B=0.800490,A=1.000000)
+[2024.07.01-12.52.58:507][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.600000,G=0.600000,B=0.600000,A=1.000000)
+[2024.07.01-12.52.58:507][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.775442,G=0.801133,B=0.793187,A=1.000000)
+[2024.07.01-12.52.58:507][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:507][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:507][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:508][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:508][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:536][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:537][737]LogBlueprintUserMessages: [Chair_Blueprint] 1
+[2024.07.01-12.52.58:547][737]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.07.01-12.52.58:569][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:570][737]LogBlueprintUserMessages: [Chair_Blueprint] 1
+[2024.07.01-12.52.58:580][737]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.07.01-12.52.58:581][737]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.07.01-12.52.58:581][737]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.52.58:590][737]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.52.58:590][737]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\'
+[2024.07.01-12.52.58:600][737]LogAssimp: Error: OBJ/MTL: Encountered unknown texture type
+[2024.07.01-12.52.58:604][737]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.52.58:604][737]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.52.58:604][737]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.52.58:604][737]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.52.58:604][737]LogAssimp: FlipUVsProcess begin
+[2024.07.01-12.52.58:604][737]LogAssimp: FlipUVsProcess finished
+[2024.07.01-12.52.58:604][737]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.52.58:604][737]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.52.58:604][737]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.52.58:604][737]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.52.58:604][737]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.52.58:604][737]LogAssimp: TriangulateProcess finished. There was nothing to be done.
+[2024.07.01-12.52.58:604][737]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.52.58:605][737]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: Points: 0, Lines: 0, Triangles: 13, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.52.58:605][737]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.52.58:605][737]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.52.58:605][737]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.52.58:605][737]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.52.58:605][737]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.58:605][737]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.52.58:605][737]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.58:605][737]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.52.58:605][737]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: JoinVerticesProcess finished | Verts in: 4212 out: 942 | ~77.6353
+[2024.07.01-12.52.58:605][737]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.52.58:605][737]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.52.58:605][737]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.52.58:605][737]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.52.58:605][737]LogAssimp: Cache relevant are 13 meshes (1404 faces). Average output ACMR is 0.80698
+[2024.07.01-12.52.58:605][737]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.52.58:605][737]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.52.58:605][737]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.52.58:605][737]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.52.58:605][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:607][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:608][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:608][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:608][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:608][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:608][737]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.07.01-12.52.58:608][737]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.52.58:613][737]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.52.58:614][737]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\'
+[2024.07.01-12.52.58:703][737]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.52.58:705][737]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.52.58:705][737]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.52.58:705][737]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.52.58:705][737]LogAssimp: FlipUVsProcess begin
+[2024.07.01-12.52.58:705][737]LogAssimp: FlipUVsProcess finished
+[2024.07.01-12.52.58:706][737]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.52.58:706][737]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.52.58:706][737]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.52.58:706][737]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.52.58:706][737]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.52.58:706][737]LogAssimp: TriangulateProcess finished. There was nothing to be done.
+[2024.07.01-12.52.58:706][737]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.52.58:714][737]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.52.58:715][737]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.52.58:715][737]LogAssimp: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.52.58:715][737]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.52.58:715][737]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.52.58:716][737]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.52.58:716][737]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.52.58:716][737]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.52.58:716][737]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.52.58:716][737]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.58:716][737]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.52.58:727][737]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.52.58:727][737]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.58:727][737]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.52.58:744][737]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.52.58:744][737]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.52.58:791][737]LogAssimp: JoinVerticesProcess finished | Verts in: 150000 out: 33456 | ~77.696
+[2024.07.01-12.52.58:792][737]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.52.58:792][737]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.52.58:792][737]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.52.58:792][737]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.52.58:792][737]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.52.58:797][737]LogAssimp: Cache relevant are 1 meshes (50000 faces). Average output ACMR is 0.86792
+[2024.07.01-12.52.58:797][737]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.52.58:797][737]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.52.58:797][737]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.52.58:797][737]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.52.58:797][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.600000,G=0.600000,B=0.600000,A=1.000000)
+[2024.07.01-12.52.58:802][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.52.58:803][737]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.52.58:803][737]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.52.58:803][737]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.52.58:803][737]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\'
+[2024.07.01-12.52.59:583][737]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.52.59:585][737]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.52.59:585][737]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.52.59:588][737]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.52.59:588][737]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.52.59:588][737]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.52.59:588][737]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.52.59:588][737]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.52.59:588][737]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.52.59:626][737]LogAssimp: TriangulateProcess finished. All polygons have been triangulated.
+[2024.07.01-12.52.59:626][737]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.52.59:704][737]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.52.59:704][737]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.52.59:704][737]LogAssimp: Points: 0, Lines: 0, Triangles: 11, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.52.59:704][737]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.52.59:704][737]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.52.59:716][737]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.52.59:716][737]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.52.59:716][737]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.52.59:716][737]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.52.59:716][737]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.59:716][737]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.52.59:774][737]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.52.59:775][737]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.52.59:775][737]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.52.59:973][737]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.52.59:973][737]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.53.00:452][737]LogAssimp: JoinVerticesProcess finished | Verts in: 875256 out: 602659 | ~31.1448
+[2024.07.01-12.53.00:453][737]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.53.00:453][737]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.53.00:453][737]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.53.00:453][737]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.53.00:453][737]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.53.00:493][737]LogAssimp: Cache relevant are 11 meshes (434272 faces). Average output ACMR is 1.48824
+[2024.07.01-12.53.00:493][737]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.53.00:493][737]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.53.00:493][737]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.53.00:493][737]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.53.00:494][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.612584,G=0.176762,B=0.800490,A=1.000000)
+[2024.07.01-12.53.00:494][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.600000,G=0.600000,B=0.600000,A=1.000000)
+[2024.07.01-12.53.00:494][737]LogBlueprintUserMessages: [Chair_Blueprint] (R=0.775442,G=0.801133,B=0.793187,A=1.000000)
+[2024.07.01-12.53.00:494][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:494][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:494][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:495][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:495][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:522][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:523][737]LogBlueprintUserMessages: [Chair_Blueprint] 3
+[2024.07.01-12.53.00:535][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.53.00:559][737]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.53.00:559][737]LogBlueprintUserMessages: [Chair_Blueprint] 3
+[2024.07.01-12.53.00:570][737]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.53.00:574][737]PIE: Server logged in
+[2024.07.01-12.53.00:577][737]PIE: Play in editor total start time 3,61 seconds.
+[2024.07.01-12.53.08:636][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-12.53.08:636][272]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.01-12.53.08:637][272]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.07.01-12.53.08:647][272]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-12.53.08:647][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-12.53.08:681][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.01-12.53.08:712][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-12.53.08:780][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.01-12.53.08:781][272]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.01-12.53.08:789][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2024.07.01-12.53.08:880][273]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2024.07.01-12.53.30:239][154]LogMaterial: Display: Missing cached shadermap for M_simpleMat_2 in PCD3D_SM5, Default, SM5 (DDC key hash: B1E7F533D2148FD7250107056FA44069C8A37433), compiling. 
+[2024.07.01-12.53.30:251][154]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2024.07.01-12.53.30:262][154]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 14
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2024.07.01-12.53.30:263][154]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2024.07.01-12.53.44:886][226]LogContentBrowser: Attempting asset rename: M_simpleMat_2 -> M_simpleMat_Color
+[2024.07.01-12.53.44:994][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_simpleMat_Color" FILE="../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/M_simpleMat_Color.uasset" SILENT=true
+[2024.07.01-12.53.45:001][226]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/M_simpleMat_Color394D6B094D84B174C0CB589143637C5B.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/M_simpleMat_Color.uasset'
+[2024.07.01-12.53.45:121][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.07.01-12.53.45:159][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.07.01-12.53.45:179][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.07.01-12.53.45:213][226]AssetCheck: New page: Asset Save: M_simpleMat_Color
+[2024.07.01-12.53.45:213][226]LogContentValidation: Display: Validating Material /Game/M_simpleMat_Color.M_simpleMat_Color
+[2024.07.01-12.53.47:449][386]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_simpleMat_Color.M_simpleMat_Color
+[2024.07.01-12.53.47:452][386]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: B9184C9E4EFCFA4FF2E79CF43410DB56A5D5920C), compiling. 
+[2024.07.01-12.53.47:459][386]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.47:461][386]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2024.07.01-12.53.47:461][386]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2024.07.01-12.53.47:461][386]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.07.01-12.53.47:462][386]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.47:543][386]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: C7500ECFD59810325F35E49837B1CE3A7F634ABB), compiling. 
+[2024.07.01-12.53.47:546][386]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 13AB7096F0B1642254527478AE01499A36D42475), compiling. 
+[2024.07.01-12.53.47:549][386]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 46D7CD0596600E9938131BE96A634F3A0FC8895B), compiling. 
+[2024.07.01-12.53.47:551][386]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 6ECD8BD4B8C9A36826751627F8784664A8ED02D4), compiling. 
+[2024.07.01-12.53.47:571][386]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.53.47:571][386]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.53.47:571][386]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.48:268][427]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.53.48:269][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.53.48:269][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.48:377][439]MaterialEditorStats: Base pass shader: 126 instructions
+[2024.07.01-12.53.48:377][439]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2024.07.01-12.53.48:377][439]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.53.48:377][439]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.53.48:377][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2024.07.01-12.53.48:377][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.53:239][955]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 9C6D2852E813C1B685197B9892320B962BEDC6ED), compiling. 
+[2024.07.01-12.53.53:243][955]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.53.53:243][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.53:243][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.53:287][956]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.53.53:974][997]MaterialEditorStats: Texture samplers: 3/16
+[2024.07.01-12.53.53:974][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.53:974][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.54:088][  8]MaterialEditorStats: Base pass shader: 123 instructions
+[2024.07.01-12.53.54:088][  8]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2024.07.01-12.53.54:088][  8]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.53.54:088][  8]MaterialEditorStats: Texture samplers: 3/16
+[2024.07.01-12.53.54:088][  8]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.54:088][  8]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.55:591][135]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: B463E6D5ED67E740FCFC77F7B1180D4085151572), compiling. 
+[2024.07.01-12.53.55:593][135]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B6608BD2C372187569283F4C17177EFB7F9B1D70), compiling. 
+[2024.07.01-12.53.55:600][135]MaterialEditorStats: Texture samplers: 0/16
+[2024.07.01-12.53.55:600][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.55:600][135]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.55:608][136]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.53.55:613][137]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.07.01-12.53.55:613][137]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.07.01-12.53.55:613][137]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.53.55:613][137]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.07.01-12.53.55:618][137]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.56:364][168]MaterialEditorStats: Texture samplers: 3/16
+[2024.07.01-12.53.56:364][168]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.56:364][168]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.56:448][176]MaterialEditorStats: Base pass shader: 125 instructions
+[2024.07.01-12.53.56:448][176]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2024.07.01-12.53.56:448][176]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.53.56:448][176]MaterialEditorStats: Texture samplers: 3/16
+[2024.07.01-12.53.56:448][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.56:448][176]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.58:316][361]LogMaterialEditor: Saving and Compiling material M_simpleMat_Color
+[2024.07.01-12.53.58:542][361]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 7045B4322B6974FF235892B3E503BCB3922851D8), compiling. 
+[2024.07.01-12.53.58:595][361]LogMaterial: Display: Missing cached shadermap for M_simpleMat_Color in PCD3D_SM5, Default, SM5 (DDC key hash: 8B3D247E4E7D59960DCA223B2C38DCAFFCBB53FD), compiling. 
+[2024.07.01-12.53.58:629][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.07.01-12.53.58:634][361]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.53.58:844][361]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2024.07.01-12.53.58:844][361]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.07.01-12.53.58:867][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.07.01-12.53.58:942][361]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.58:945][361]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2024.07.01-12.53.58:945][361]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2024.07.01-12.53.58:945][361]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2024.07.01-12.53.58:945][361]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 2
+[2024.07.01-12.53.58:945][361]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2024.07.01-12.53.58:945][361]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2024.07.01-12.53.58:966][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_simpleMat_Color" FILE="../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/M_simpleMat_Color.uasset" SILENT=true
+[2024.07.01-12.53.58:971][361]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/M_simpleMat_Color6A2AF463482F9936FCEB61866DA4A19D.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/M_simpleMat_Color.uasset'
+[2024.07.01-12.53.59:078][361]AssetCheck: New page: Asset Save: M_simpleMat_Color
+[2024.07.01-12.53.59:078][361]LogContentValidation: Display: Validating Material /Game/M_simpleMat_Color.M_simpleMat_Color
+[2024.07.01-12.53.59:085][361]MaterialEditorStats: Texture samplers: 3/16
+[2024.07.01-12.53.59:085][361]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.59:085][361]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.59:424][394]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.53.59:424][394]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.59:424][394]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.53.59:450][397]MaterialEditorStats: Base pass shader: 125 instructions
+[2024.07.01-12.53.59:450][397]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 199 instructions
+[2024.07.01-12.53.59:450][397]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.07.01-12.53.59:450][397]MaterialEditorStats: Texture samplers: 4/16
+[2024.07.01-12.53.59:450][397]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.07.01-12.53.59:450][397]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.07.01-12.58.23:394][523]BlueprintLog: New page: Compile Chair_Blueprint
+[2024.07.01-12.58.23:479][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.07.01-12.58.24:241][578]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Chair_Blueprint46EA0CB34DD9DA3D4EC62C847E52F492.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Blueprints/Assets/Chair_Blueprint.uasset'
+[2024.07.01-12.58.24:261][578]AssetCheck: New page: Asset Save: Chair_Blueprint
+[2024.07.01-12.58.24:261][578]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Assets/Chair_Blueprint.Chair_Blueprint
+[2024.07.01-12.58.24:856][629]LogTemp: Repeating last play command: Selected Viewport
+[2024.07.01-12.58.24:862][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.01-12.58.24:862][629]PIE: New page: PIE session: Minimal_Default (2024. júl. 1. 16:58:24)
+[2024.07.01-12.58.24:862][629]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.01-12.58.24:866][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2024.07.01-12.58.24:867][629]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.07.01-12.58.24:867][629]LogPlayLevel: PIE: World Init took: (0.001289s)
+[2024.07.01-12.58.24:867][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004835s)
+[2024.07.01-12.58.24:892][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2024.07.01-12.58.24:892][629]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.01-12.58.24:892][629]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.01-12.58.24:892][629]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.01-12.58.24:893][629]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.01-12.58.24:893][629]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.01-12.58.24:893][629]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.01-12.58.24:893][629]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.01-12.58.24:896][629]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-12.58.24:896][629]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-12.58.24:904][629]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.07.01-12.58.24:904][629]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.01-12.58.24:904][629]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.01-12.58.24:904][629]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.01-12.58.24:904][629]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.01-12.58.24:904][629]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.01-12.58.24:904][629]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.07.01-12.58.24:907][629]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.01-12.58.24:907][629]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.01-12.58.24:907][629]LogInit: FAudioDevice initialized.
+[2024.07.01-12.58.24:907][629]LogAudio: Display: Audio Device (ID: 48) registered with world 'Minimal_Default'.
+[2024.07.01-12.58.24:968][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-12.58.24:968][629]LogLoad: Game class is 'GameModeBase'
+[2024.07.01-12.58.24:969][629]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.07.01-14.58.24
+[2024.07.01-12.58.24:970][629]LogWorld: Bringing up level for play took: 0.000927
+[2024.07.01-12.58.24:970][629]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2024.07.01-12.58.24:973][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.58.24:973][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.07.01-12.58.24:973][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.07.01-12.58.24:973][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.58.24:973][629]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.58.24:973][629]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.58.24:973][629]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.58.24:973][629]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\'
+[2024.07.01-12.58.25:479][629]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.58.25:480][629]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.58.25:480][629]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.58.25:483][629]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.58.25:483][629]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.58.25:483][629]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.58.25:483][629]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.58.25:483][629]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.58.25:483][629]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.58.25:521][629]LogAssimp: TriangulateProcess finished. All polygons have been triangulated.
+[2024.07.01-12.58.25:521][629]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.58.25:599][629]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.58.25:599][629]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.58.25:599][629]LogAssimp: Points: 0, Lines: 0, Triangles: 11, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.58.25:599][629]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.58.25:599][629]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.58.25:610][629]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.58.25:610][629]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.58.25:610][629]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.58.25:610][629]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.58.25:611][629]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.25:611][629]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.58.25:669][629]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.58.25:669][629]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.25:669][629]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.58.25:865][629]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.58.25:865][629]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.58.26:308][629]LogAssimp: JoinVerticesProcess finished | Verts in: 875256 out: 602659 | ~31.1448
+[2024.07.01-12.58.26:309][629]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.58.26:309][629]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.58.26:309][629]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.58.26:309][629]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.58.26:309][629]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.58.26:347][629]LogAssimp: Cache relevant are 11 meshes (434272 faces). Average output ACMR is 1.48824
+[2024.07.01-12.58.26:347][629]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.58.26:347][629]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.58.26:348][629]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.58.26:348][629]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.58.26:348][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:348][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\
+[2024.07.01-12.58.26:348][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\' error.
+[2024.07.01-12.58.26:348][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\ could not be found
+[2024.07.01-12.58.26:348][629]LogBlueprintUserMessages: [Chair_Blueprint] Hello
+[2024.07.01-12.58.26:348][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:348][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\DonutBase.png
+[2024.07.01-12.58.26:356][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:356][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\
+[2024.07.01-12.58.26:356][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\' error.
+[2024.07.01-12.58.26:356][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\ could not be found
+[2024.07.01-12.58.26:356][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:356][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\
+[2024.07.01-12.58.26:356][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\' error.
+[2024.07.01-12.58.26:356][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\ could not be found
+[2024.07.01-12.58.26:356][629]LogBlueprintUserMessages: [Chair_Blueprint] Hello
+[2024.07.01-12.58.26:357][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:358][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:358][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:358][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:358][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:385][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:387][629]LogBlueprintUserMessages: [Chair_Blueprint] 1
+[2024.07.01-12.58.26:397][629]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.07.01-12.58.26:420][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:421][629]LogBlueprintUserMessages: [Chair_Blueprint] 1
+[2024.07.01-12.58.26:430][629]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.07.01-12.58.26:430][629]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.07.01-12.58.26:430][629]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.58.26:430][629]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.58.26:430][629]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\'
+[2024.07.01-12.58.26:435][629]LogAssimp: Error: OBJ/MTL: Encountered unknown texture type
+[2024.07.01-12.58.26:438][629]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.58.26:438][629]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.58.26:438][629]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.58.26:438][629]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.58.26:438][629]LogAssimp: FlipUVsProcess begin
+[2024.07.01-12.58.26:438][629]LogAssimp: FlipUVsProcess finished
+[2024.07.01-12.58.26:438][629]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.58.26:438][629]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.58.26:438][629]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.58.26:438][629]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.58.26:438][629]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.58.26:438][629]LogAssimp: TriangulateProcess finished. There was nothing to be done.
+[2024.07.01-12.58.26:438][629]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.58.26:439][629]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.58.26:439][629]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.58.26:439][629]LogAssimp: Points: 0, Lines: 0, Triangles: 13, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.58.26:439][629]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.58.26:439][629]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.58.26:439][629]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.58.26:439][629]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.58.26:439][629]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.58.26:439][629]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.58.26:439][629]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.26:439][629]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.58.26:439][629]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.58.26:439][629]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.26:439][629]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.58.26:439][629]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.58.26:439][629]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.58.26:440][629]LogAssimp: JoinVerticesProcess finished | Verts in: 4212 out: 942 | ~77.6353
+[2024.07.01-12.58.26:440][629]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.58.26:440][629]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.58.26:440][629]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.58.26:440][629]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.58.26:440][629]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.58.26:440][629]LogAssimp: Cache relevant are 13 meshes (1404 faces). Average output ACMR is 0.80698
+[2024.07.01-12.58.26:440][629]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.58.26:440][629]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.58.26:440][629]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.58.26:440][629]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.58.26:440][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:440][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\Untitled copy.png
+[2024.07.01-12.58.26:462][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:462][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\
+[2024.07.01-12.58.26:462][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\' error.
+[2024.07.01-12.58.26:462][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\ could not be found
+[2024.07.01-12.58.26:462][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:463][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:463][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:463][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:463][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:463][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:463][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:464][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:464][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:464][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:464][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:465][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:465][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:465][629]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.07.01-12.58.26:465][629]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.58.26:466][629]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.58.26:466][629]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\'
+[2024.07.01-12.58.26:548][629]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.58.26:548][629]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.58.26:548][629]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.58.26:549][629]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.58.26:549][629]LogAssimp: FlipUVsProcess begin
+[2024.07.01-12.58.26:549][629]LogAssimp: FlipUVsProcess finished
+[2024.07.01-12.58.26:549][629]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.58.26:549][629]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.58.26:549][629]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.58.26:549][629]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.58.26:549][629]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.58.26:549][629]LogAssimp: TriangulateProcess finished. There was nothing to be done.
+[2024.07.01-12.58.26:549][629]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.58.26:558][629]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.58.26:558][629]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.58.26:558][629]LogAssimp: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.58.26:558][629]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.58.26:558][629]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.58.26:560][629]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.58.26:560][629]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.58.26:560][629]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.58.26:560][629]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.58.26:560][629]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.26:560][629]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.58.26:570][629]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.58.26:570][629]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.26:570][629]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.58.26:588][629]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.58.26:588][629]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.58.26:635][629]LogAssimp: JoinVerticesProcess finished | Verts in: 150000 out: 33456 | ~77.696
+[2024.07.01-12.58.26:635][629]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.58.26:635][629]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.58.26:635][629]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.58.26:635][629]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.58.26:635][629]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.58.26:639][629]LogAssimp: Cache relevant are 1 meshes (50000 faces). Average output ACMR is 0.86792
+[2024.07.01-12.58.26:639][629]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.58.26:639][629]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.58.26:639][629]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.58.26:639][629]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.58.26:639][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:641][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\textures\Image_0.jpg
+[2024.07.01-12.58.26:702][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.26:702][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\
+[2024.07.01-12.58.26:702][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\' error.
+[2024.07.01-12.58.26:702][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\ could not be found
+[2024.07.01-12.58.26:709][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.26:709][629]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.07.01-12.58.26:709][629]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.07.01-12.58.26:710][629]LogAssimp: Found a matching importer for this file format: Wavefront Object Importer.
+[2024.07.01-12.58.26:710][629]LogAssimp: Import root directory is 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\'
+[2024.07.01-12.58.27:495][629]LogAssimp: UpdateImporterScale scale set: 1
+[2024.07.01-12.58.27:496][629]LogAssimp: Entering post processing pipeline
+[2024.07.01-12.58.27:497][629]LogAssimp: MakeLeftHandedProcess begin
+[2024.07.01-12.58.27:499][629]LogAssimp: MakeLeftHandedProcess finished
+[2024.07.01-12.58.27:499][629]LogAssimp: RemoveRedundantMatsProcess begin
+[2024.07.01-12.58.27:499][629]LogAssimp: RemoveRedundantMatsProcess finished. Removed 0 redundant and 1 unused materials.
+[2024.07.01-12.58.27:499][629]LogAssimp: GenUVCoordsProcess begin
+[2024.07.01-12.58.27:499][629]LogAssimp: GenUVCoordsProcess finished
+[2024.07.01-12.58.27:499][629]LogAssimp: TriangulateProcess begin
+[2024.07.01-12.58.27:537][629]LogAssimp: TriangulateProcess finished. All polygons have been triangulated.
+[2024.07.01-12.58.27:537][629]LogAssimp: FindDegeneratesProcess begin
+[2024.07.01-12.58.27:614][629]LogAssimp: FindDegeneratesProcess finished
+[2024.07.01-12.58.27:614][629]LogAssimp: SortByPTypeProcess begin
+[2024.07.01-12.58.27:614][629]LogAssimp: Points: 0, Lines: 0, Triangles: 11, Polygons: 0 (Meshes, X = removed)
+[2024.07.01-12.58.27:614][629]LogAssimp: SortByPTypeProcess finished
+[2024.07.01-12.58.27:614][629]LogAssimp: FindInvalidDataProcess begin
+[2024.07.01-12.58.27:626][629]LogAssimp: FindInvalidDataProcess finished. Found issues ...
+[2024.07.01-12.58.27:626][629]LogAssimp: SplitLargeMeshesProcess_Triangle begin
+[2024.07.01-12.58.27:626][629]LogAssimp: SplitLargeMeshesProcess_Triangle finished. There was nothing to do
+[2024.07.01-12.58.27:626][629]LogAssimp: GenFaceNormalsProcess begin
+[2024.07.01-12.58.27:626][629]LogAssimp: GenFaceNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.27:626][629]LogAssimp: Generate spatially-sorted vertex cache
+[2024.07.01-12.58.27:683][629]LogAssimp: GenVertexNormalsProcess begin
+[2024.07.01-12.58.27:683][629]LogAssimp: GenVertexNormalsProcess finished. Normals are already there
+[2024.07.01-12.58.27:683][629]LogAssimp: CalcTangentsProcess begin
+[2024.07.01-12.58.27:879][629]LogAssimp: CalcTangentsProcess finished. Tangents have been calculated
+[2024.07.01-12.58.27:880][629]LogAssimp: JoinVerticesProcess begin
+[2024.07.01-12.58.28:325][629]LogAssimp: JoinVerticesProcess finished | Verts in: 875256 out: 602659 | ~31.1448
+[2024.07.01-12.58.28:325][629]LogAssimp: SplitLargeMeshesProcess_Vertex begin
+[2024.07.01-12.58.28:325][629]LogAssimp: SplitLargeMeshesProcess_Vertex finished. There was nothing to do
+[2024.07.01-12.58.28:325][629]LogAssimp: LimitBoneWeightsProcess begin
+[2024.07.01-12.58.28:325][629]LogAssimp: LimitBoneWeightsProcess end
+[2024.07.01-12.58.28:325][629]LogAssimp: ImproveCacheLocalityProcess begin
+[2024.07.01-12.58.28:365][629]LogAssimp: Cache relevant are 11 meshes (434272 faces). Average output ACMR is 1.48824
+[2024.07.01-12.58.28:365][629]LogAssimp: ImproveCacheLocalityProcess finished. 
+[2024.07.01-12.58.28:365][629]LogAssimp: Leaving post processing pipeline
+[2024.07.01-12.58.28:365][629]LogAssimp: Warning: No UnitScaleFactor in metadata.
+[2024.07.01-12.58.28:365][629]LogAssimp: Warning: UnitScaleFactor: 1
+[2024.07.01-12.58.28:365][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.28:365][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\
+[2024.07.01-12.58.28:365][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\' error.
+[2024.07.01-12.58.28:365][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\ could not be found
+[2024.07.01-12.58.28:365][629]LogBlueprintUserMessages: [Chair_Blueprint] Hello
+[2024.07.01-12.58.28:365][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.28:365][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\DonutBase.png
+[2024.07.01-12.58.28:372][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.28:372][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\
+[2024.07.01-12.58.28:372][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\' error.
+[2024.07.01-12.58.28:372][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\ could not be found
+[2024.07.01-12.58.28:373][629]LogAssimp: Embedded texture not found . Texture might be  external 
+[2024.07.01-12.58.28:373][629]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\
+[2024.07.01-12.58.28:373][629]LogStreaming: Warning: Failed to read file 'C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\' error.
+[2024.07.01-12.58.28:373][629]LogImageUtils: Warning: Error creating texture. C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\ could not be found
+[2024.07.01-12.58.28:373][629]LogBlueprintUserMessages: [Chair_Blueprint] Hello
+[2024.07.01-12.58.28:373][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:373][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:373][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:375][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:375][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:401][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:402][629]LogBlueprintUserMessages: [Chair_Blueprint] 3
+[2024.07.01-12.58.28:412][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.28:434][629]LogBlueprintUserMessages: [Chair_Blueprint] 4
+[2024.07.01-12.58.28:435][629]LogBlueprintUserMessages: [Chair_Blueprint] 3
+[2024.07.01-12.58.28:444][629]LogBlueprintUserMessages: [Chair_Blueprint] 2
+[2024.07.01-12.58.28:447][629]PIE: Server logged in
+[2024.07.01-12.58.28:450][629]PIE: Play in editor total start time 3,59 seconds.
+[2024.07.01-12.58.31:554][780]LogRenderer: Reallocating scene render targets to support 1920x1008 Format 10 NumSamples 1 (Frame:153).
+[2024.07.01-12.58.58:811][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-12.58.58:811][552]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.07.01-12.58.58:812][552]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.07.01-12.58.58:827][552]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-12.58.58:827][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-12.58.58:853][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.01-12.58.58:871][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-12.58.58:925][552]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.01-12.58.58:925][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.01-12.58.58:926][552]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.01-12.58.58:936][552]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.07.01-12.58.59:010][553]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.07.01-13.01.31:864][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2024.07.01-13.01.31:874][326]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default_Auto71EB1F9944CC5D254DF2D6F9F172FA1F9.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap'
+[2024.07.01-13.01.31:877][326]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.038
+[2024.07.01-13.01.31:877][326]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2024.07.01-13.01.31:877][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Blueprints/Assets/Chair_Blueprint] ([4] browsable assets)...
+[2024.07.01-13.01.31:905][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/Assets/Chair_Blueprint.Chair_Blueprint]
+[2024.07.01-13.01.31:920][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StarterContent/Blueprints/Assets/Chair_Blueprint.Chair_Blueprint]
+[2024.07.01-13.01.31:920][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Blueprints/Assets/Chair_Blueprint]
+[2024.07.01-13.01.31:978][326]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Chair_Blueprint_Auto7B4B97F274387BF8128D70892694B8F2E.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Autosaves/Game/StarterContent/Blueprints/Assets/Chair_Blueprint_Auto7.uasset'
+[2024.07.01-13.01.31:979][326]LogFileHelpers: Auto-saving content packages took 0.103
+[2024.07.01-13.02.09:488][926]BlueprintLog: New page: Compile Chair_Blueprint
+[2024.07.01-13.02.09:569][926]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.07.01-13.04.45:702][749]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2024.07.01-13.04.45:714][749]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default22D1F21545AA03542D8549ACBDA599B7.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.07.01-13.04.45:763][749]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default_BuiltData1729696C4BAD1174DE744AA9C0297B2F.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.07.01-13.04.45:784][749]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-13.04.45:784][749]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.07.01-13.04.45:784][749]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.07.01-13.04.51:283][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.07.01-13.04.55:998][354]LogSlate: Window 'Save Content' being destroyed
+[2024.07.01-13.04.58:175][478]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Chair_BlueprintE5F371F84DE9EA2CEE43F49B21489C78.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Blueprints/Assets/Chair_Blueprint.uasset'
+[2024.07.01-13.04.58:194][478]AssetCheck: New page: Asset Save: Chair_Blueprint
+[2024.07.01-13.04.58:194][478]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/Assets/Chair_Blueprint.Chair_Blueprint
+[2024.07.01-13.05.00:417][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.07.01-13.05.00:428][631]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_DefaultE5988D324C5F971F82DBBBA39D46D5D7.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.07.01-13.05.00:464][631]LogSavePackage: Moving '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default_BuiltData3CEA0EAA42FD28B87076B0B812CAC207.tmp' to '../../../../../../Users/Patay Viki/onlab/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.07.01-13.05.00:482][631]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-13.05.00:482][631]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.07.01-13.05.00:482][631]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.07.01-13.05.02:067][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.07.01-13.05.02:149][786]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.02:149][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.05.02:247][786]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.02:247][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.05.02:277][786]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.02:277][786]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-13.05.02:327][786]LogSlate: Window 'AssimpProject - Unreal Editor' being destroyed
+[2024.07.01-13.05.02:472][787]Cmd: QUIT_EDITOR
+[2024.07.01-13.05.02:472][787]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.07.01-13.05.02:477][787]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.07.01-13.05.02:935][787]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.07.01-13.05.02:936][787]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.07.01-13.05.02:936][787]LogAudio: Display: Audio Device unregistered from world 'Minimal_Default'.
+[2024.07.01-13.05.02:936][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.01-13.05.02:936][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.07.01-13.05.02:952][787]LogAudio: Display: Audio Device Manager Shutdown
+[2024.07.01-13.05.02:952][787]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.01-13.05.02:963][787]LogExit: Preparing to exit.
+[2024.07.01-13.05.03:023][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2024.07.01-13.05.03:726][787]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.03:729][787]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.03:729][787]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.03:730][787]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2024.07.01-13.05.03:731][787]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.03:784][787]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.07.01-13.05.03:812][787]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-13.05.03:812][787]LogExit: Editor shut down
+[2024.07.01-13.05.03:815][787]LogExit: Transaction tracking system shut down
+[2024.07.01-13.05.04:180][787]LogExit: Object subsystem successfully closed.
+[2024.07.01-13.05.04:242][787]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.01-13.05.04:242][787]LogShaderCompilers: Display: Total job queries 434, among them cache hits 249 (57.37%)
+[2024.07.01-13.05.04:242][787]LogShaderCompilers: Display: Tracking 162 distinct input hashes that result in 77 distinct outputs (47.53%)
+[2024.07.01-13.05.04:242][787]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2024.07.01-13.05.04:242][787]LogShaderCompilers: Display: ================================================
+[2024.07.01-13.05.04:266][787]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module TextureEditor (884)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module BlueprintGraph (882)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (880)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module Voice (878)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module DataTableEditor (876)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (874)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module SceneOutliner (872)
+[2024.07.01-13.05.04:329][787]LogModuleManager: Shutting down and abandoning module AddContentDialog (870)
+[2024.07.01-13.05.04:332][787]LogModuleManager: Shutting down and abandoning module WidgetCarousel (869)
+[2024.07.01-13.05.04:332][787]LogModuleManager: Shutting down and abandoning module EditorWidgets (866)
+[2024.07.01-13.05.04:332][787]LogModuleManager: Shutting down and abandoning module StatsViewer (864)
+[2024.07.01-13.05.04:332][787]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (862)
+[2024.07.01-13.05.04:333][787]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (860)
+[2024.07.01-13.05.04:333][787]LogModuleManager: Shutting down and abandoning module AutomationWorker (858)
+[2024.07.01-13.05.04:333][787]LogModuleManager: Shutting down and abandoning module SteamVREditor (856)
+[2024.07.01-13.05.04:333][787]LogModuleManager: Shutting down and abandoning module OculusMR (854)
+[2024.07.01-13.05.04:333][787]LogModuleManager: Shutting down and abandoning module OpenXRInput (852)
+[2024.07.01-13.05.04:334][787]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (850)
+[2024.07.01-13.05.04:335][787]LogModuleManager: Shutting down and abandoning module TakeRecorder (849)
+[2024.07.01-13.05.04:335][787]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (846)
+[2024.07.01-13.05.04:335][787]LogModuleManager: Shutting down and abandoning module TakesCore (844)
+[2024.07.01-13.05.04:336][787]LogModuleManager: Shutting down and abandoning module GooglePADEditor (842)
+[2024.07.01-13.05.04:336][787]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (840)
+[2024.07.01-13.05.04:336][787]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (838)
+[2024.07.01-13.05.04:337][787]LogModuleManager: Shutting down and abandoning module PlanarCut (836)
+[2024.07.01-13.05.04:337][787]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (834)
+[2024.07.01-13.05.04:337][787]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2024.07.01-13.05.04:338][787]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (830)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (828)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (826)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (824)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (822)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module SequenceRecorder (821)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (818)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (816)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (814)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (812)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module WebMMedia (810)
+[2024.07.01-13.05.04:339][787]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (808)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (806)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (804)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (802)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (800)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (798)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module CharacterAI (796)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module TextureAlignMode (790)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module BspMode (788)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module GeometryMode (786)
+[2024.07.01-13.05.04:340][787]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (784)
+[2024.07.01-13.05.04:341][787]LogModuleManager: Shutting down and abandoning module SmartSnapping (782)
+[2024.07.01-13.05.04:341][787]LogModuleManager: Shutting down and abandoning module SessionServices (780)
+[2024.07.01-13.05.04:341][787]LogModuleManager: Shutting down and abandoning module MeshPaint (778)
+[2024.07.01-13.05.04:341][787]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2024.07.01-13.05.04:342][787]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2024.07.01-13.05.04:342][787]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module PlacementMode (764)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module ViewportSnapping (762)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module ViewportInteraction (760)
+[2024.07.01-13.05.04:343][787]LogModuleManager: Shutting down and abandoning module ClothPainter (758)
+[2024.07.01-13.05.04:345][787]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (757)
+[2024.07.01-13.05.04:345][787]LogModuleManager: Shutting down and abandoning module LogVisualizer (754)
+[2024.07.01-13.05.04:346][787]LogModuleManager: Shutting down and abandoning module IntroTutorials (752)
+[2024.07.01-13.05.04:347][787]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (751)
+[2024.07.01-13.05.04:347][787]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (748)
+[2024.07.01-13.05.04:347][787]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (746)
+[2024.07.01-13.05.04:347][787]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (744)
+[2024.07.01-13.05.04:347][787]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (743)
+[2024.07.01-13.05.05:806][787]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (740)
+[2024.07.01-13.05.05:806][787]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (738)
+[2024.07.01-13.05.05:806][787]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (736)
+[2024.07.01-13.05.05:806][787]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (734)
+[2024.07.01-13.05.05:806][787]LogModuleManager: Shutting down and abandoning module TraceInsights (732)
+[2024.07.01-13.05.05:819][787]MemoryProfiler: Shutdown
+[2024.07.01-13.05.05:819][787]NetworkingProfiler: Shutdown
+[2024.07.01-13.05.05:819][787]LoadingProfiler: Shutdown
+[2024.07.01-13.05.05:821][787]TimingProfiler: Shutdown
+[2024.07.01-13.05.05:822][787]LogModuleManager: Shutting down and abandoning module TraceServices (731)
+[2024.07.01-13.05.05:824][787]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (728)
+[2024.07.01-13.05.05:824][787]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (726)
+[2024.07.01-13.05.05:824][787]LogModuleManager: Shutting down and abandoning module InputBindingEditor (724)
+[2024.07.01-13.05.05:825][787]LogModuleManager: Shutting down and abandoning module MergeActors (722)
+[2024.07.01-13.05.05:825][787]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (720)
+[2024.07.01-13.05.05:826][787]LogModuleManager: Shutting down and abandoning module LocalizationService (719)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module HardwareTargeting (716)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (714)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module UndoHistory (712)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module XmlParser (710)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module Blutility (708)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (706)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (705)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (702)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (701)
+[2024.07.01-13.05.05:827][787]LogModuleManager: Shutting down and abandoning module SettingsEditor (698)
+[2024.07.01-13.05.05:828][787]LogModuleManager: Shutting down and abandoning module ProjectLauncher (696)
+[2024.07.01-13.05.05:829][787]LogModuleManager: Shutting down and abandoning module SessionFrontend (694)
+[2024.07.01-13.05.05:829][787]LogModuleManager: Shutting down and abandoning module ProfilerClient (692)
+[2024.07.01-13.05.05:829][787]LogModuleManager: Shutting down and abandoning module DeviceManager (690)
+[2024.07.01-13.05.05:829][787]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (689)
+[2024.07.01-13.05.05:861][787]LogModuleManager: Shutting down and abandoning module AutomationController (686)
+[2024.07.01-13.05.05:862][787]LogModuleManager: Shutting down and abandoning module AutomationWindow (684)
+[2024.07.01-13.05.05:863][787]LogModuleManager: Shutting down and abandoning module Layers (682)
+[2024.07.01-13.05.05:865][787]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (680)
+[2024.07.01-13.05.05:865][787]LogModuleManager: Shutting down and abandoning module DetailCustomizations (678)
+[2024.07.01-13.05.05:865][787]LogModuleManager: Shutting down and abandoning module PackagesDialog (676)
+[2024.07.01-13.05.05:865][787]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (674)
+[2024.07.01-13.05.05:866][787]LogModuleManager: Shutting down and abandoning module Persona (672)
+[2024.07.01-13.05.05:867][787]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (671)
+[2024.07.01-13.05.05:867][787]LogModuleManager: Shutting down and abandoning module AnimGraph (669)
+[2024.07.01-13.05.05:867][787]LogModuleManager: Shutting down and abandoning module Kismet (666)
+[2024.07.01-13.05.05:883][787]LogModuleManager: Shutting down and abandoning module KismetWidgets (665)
+[2024.07.01-13.05.05:884][787]LogModuleManager: Shutting down and abandoning module GraphEditor (662)
+[2024.07.01-13.05.05:884][787]LogModuleManager: Shutting down and abandoning module StructViewer (660)
+[2024.07.01-13.05.05:884][787]LogModuleManager: Shutting down and abandoning module ClassViewer (658)
+[2024.07.01-13.05.05:884][787]LogModuleManager: Shutting down and abandoning module Toolbox (656)
+[2024.07.01-13.05.05:884][787]LogModuleManager: Shutting down and abandoning module ModuleUI (654)
+[2024.07.01-13.05.05:884][787]LogModuleManager: Shutting down and abandoning module OutputLog (652)
+[2024.07.01-13.05.05:888][787]LogModuleManager: Shutting down and abandoning module GammaUI (650)
+[2024.07.01-13.05.05:888][787]LogModuleManager: Shutting down and abandoning module Documentation (648)
+[2024.07.01-13.05.05:888][787]LogModuleManager: Shutting down and abandoning module LiveCoding (646)
+[2024.07.01-13.05.05:890][787]LogModuleManager: Shutting down and abandoning module LevelSequence (644)
+[2024.07.01-13.05.05:890][787]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (642)
+[2024.07.01-13.05.05:890][787]LogModuleManager: Shutting down and abandoning module MovieScene (640)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (638)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module LauncherPlatform (636)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module AnalyticsET (634)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module PortalServices (632)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module PortalRpc (630)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module MessagingRpc (628)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (626)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module AudioMixerCore (625)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module AIModule (622)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module GameplayDebugger (621)
+[2024.07.01-13.05.05:893][787]LogModuleManager: Shutting down and abandoning module AITestSuite (619)
+[2024.07.01-13.05.05:894][787]LogModuleManager: Shutting down and abandoning module NavigationSystem (617)
+[2024.07.01-13.05.05:894][787]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (614)
+[2024.07.01-13.05.05:909][787]LogModuleManager: Shutting down and abandoning module ProfilerService (612)
+[2024.07.01-13.05.06:099][787]LogModuleManager: Shutting down and abandoning module TaskGraph (610)
+[2024.07.01-13.05.06:099][787]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (608)
+[2024.07.01-13.05.06:100][787]LogModuleManager: Shutting down and abandoning module OculusEditor (606)
+[2024.07.01-13.05.06:102][787]LogModuleManager: Shutting down and abandoning module OculusInput (604)
+[2024.07.01-13.05.06:102][787]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (602)
+[2024.07.01-13.05.06:102][787]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (600)
+[2024.07.01-13.05.06:102][787]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (598)
+[2024.07.01-13.05.06:102][787]LogModuleManager: Shutting down and abandoning module CollectionManager (597)
+[2024.07.01-13.05.06:103][787]LogModuleManager: Shutting down and abandoning module SynthesisEditor (594)
+[2024.07.01-13.05.06:104][787]LogModuleManager: Shutting down and abandoning module Synthesis (592)
+[2024.07.01-13.05.06:104][787]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (590)
+[2024.07.01-13.05.06:105][787]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (588)
+[2024.07.01-13.05.06:105][787]LogModuleManager: Shutting down and abandoning module OpenXREditor (586)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (584)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module TakeSequencer (582)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module TakeMovieScene (580)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module ScreenshotTools (578)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module GooglePAD (576)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module EditableMesh (574)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (572)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module CableComponent (570)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module AudioCapture (568)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (567)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module AssetTags (564)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (562)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (560)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module AppleImageUtils (558)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module AndroidPermission (556)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (554)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (552)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module TemplateSequence (550)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (548)
+[2024.07.01-13.05.06:106][787]LogOpenImageDenoise: OIDN shutting down
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (546)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module MotoSynth (544)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module MeshConversion (542)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2024.07.01-13.05.06:106][787]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2024.07.01-13.05.06:108][787]LogModuleManager: Shutting down and abandoning module GeometricObjects (536)
+[2024.07.01-13.05.06:108][787]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (534)
+[2024.07.01-13.05.06:108][787]LogModuleManager: Shutting down and abandoning module MediaCompositing (532)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (530)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (528)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (526)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (524)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (522)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (521)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (518)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (516)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (514)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (512)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module ImgMedia (510)
+[2024.07.01-13.05.06:109][787]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (508)
+[2024.07.01-13.05.06:110][787]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (506)
+[2024.07.01-13.05.06:110][787]LogModuleManager: Shutting down and abandoning module ChaosNiagara (504)
+[2024.07.01-13.05.06:110][787]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (502)
+[2024.07.01-13.05.06:110][787]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2024.07.01-13.05.06:110][787]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (499)
+[2024.07.01-13.05.06:110][787]LogModuleManager: Shutting down and abandoning module BackChannel (496)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (494)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (492)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module AutomationUtils (490)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module AlembicImporter (488)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module AlembicLibrary (487)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module GeometryCache (486)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (485)
+[2024.07.01-13.05.06:111][787]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (480)
+[2024.07.01-13.05.06:113][787]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (478)
+[2024.07.01-13.05.06:113][787]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (476)
+[2024.07.01-13.05.06:113][787]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (474)
+[2024.07.01-13.05.06:113][787]LogModuleManager: Shutting down and abandoning module PluginBrowser (472)
+[2024.07.01-13.05.06:115][787]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (470)
+[2024.07.01-13.05.06:115][787]LogModuleManager: Shutting down and abandoning module CurveEditorTools (468)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (466)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module CryptoKeys (464)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (458)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (456)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (454)
+[2024.07.01-13.05.06:116][787]LogModuleManager: Shutting down and abandoning module PluginUtils (452)
+[2024.07.01-13.05.06:117][787]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (450)
+[2024.07.01-13.05.06:117][787]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (448)
+[2024.07.01-13.05.06:118][787]LogModuleManager: Shutting down and abandoning module GitSourceControl (446)
+[2024.07.01-13.05.06:119][787]LogModuleManager: Shutting down and abandoning module SourceControl (445)
+[2024.07.01-13.05.06:119][787]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (442)
+[2024.07.01-13.05.06:119][787]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (440)
+[2024.07.01-13.05.06:119][787]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (438)
+[2024.07.01-13.05.06:119][787]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (436)
+[2024.07.01-13.05.06:120][787]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (434)
+[2024.07.01-13.05.06:120][787]LogModuleManager: Shutting down and abandoning module LiveLink (432)
+[2024.07.01-13.05.06:772][787]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (430)
+[2024.07.01-13.05.06:772][787]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (428)
+[2024.07.01-13.05.06:772][787]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (426)
+[2024.07.01-13.05.06:772][787]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (424)
+[2024.07.01-13.05.06:772][787]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (422)
+[2024.07.01-13.05.06:773][787]LogModuleManager: Shutting down and abandoning module Paper2DEditor (420)
+[2024.07.01-13.05.06:774][787]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (418)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (416)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module AssimpProject (414)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module UE_Assimp (412)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (404)
+[2024.07.01-13.05.06:775][787]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (400)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (392)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module ActorSequence (390)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (388)
+[2024.07.01-13.05.06:776][787]LogModuleManager: Shutting down and abandoning module UdpMessaging (386)
+[2024.07.01-13.05.06:877][787]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2024.07.01-13.05.06:877][787]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2024.07.01-13.05.06:877][787]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2024.07.01-13.05.06:878][787]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2024.07.01-13.05.06:878][787]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2024.07.01-13.05.06:879][787]LogModuleManager: Shutting down and abandoning module TcpMessaging (362)
+[2024.07.01-13.05.06:981][787]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2024.07.01-13.05.06:981][787]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2024.07.01-13.05.06:981][787]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2024.07.01-13.05.06:983][787]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2024.07.01-13.05.06:983][787]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2024.07.01-13.05.06:984][787]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2024.07.01-13.05.06:986][787]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2024.07.01-13.05.06:986][787]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2024.07.01-13.05.06:986][787]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2024.07.01-13.05.06:986][787]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2024.07.01-13.05.06:986][787]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2024.07.01-13.05.06:987][787]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2024.07.01-13.05.06:989][787]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2024.07.01-13.05.06:990][787]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2024.07.01-13.05.06:990][787]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2024.07.01-13.05.06:991][787]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2024.07.01-13.05.06:991][787]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2024.07.01-13.05.06:991][787]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2024.07.01-13.05.06:991][787]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2024.07.01-13.05.06:991][787]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2024.07.01-13.05.06:992][787]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2024.07.01-13.05.06:992][787]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (318)
+[2024.07.01-13.05.06:992][787]LogModuleManager: Shutting down and abandoning module AnimationSharing (316)
+[2024.07.01-13.05.06:992][787]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (314)
+[2024.07.01-13.05.06:993][787]LogModuleManager: Shutting down and abandoning module GameplayCameras (312)
+[2024.07.01-13.05.06:993][787]LogModuleManager: Shutting down and abandoning module Paper2D (310)
+[2024.07.01-13.05.06:993][787]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2024.07.01-13.05.06:999][787]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2024.07.01-13.05.07:001][787]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2024.07.01-13.05.07:001][787]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2024.07.01-13.05.07:001][787]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2024.07.01-13.05.07:002][787]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2024.07.01-13.05.07:002][787]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2024.07.01-13.05.07:003][787]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2024.07.01-13.05.07:003][787]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.07.01-13.05.07:003][787]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.07.01-13.05.07:004][787]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2024.07.01-13.05.07:004][787]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.07.01-13.05.07:007][787]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.07.01-13.05.07:007][787]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.07.01-13.05.07:008][787]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2024.07.01-13.05.07:008][787]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module Core (248)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2024.07.01-13.05.07:009][787]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2024.07.01-13.05.07:010][787]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2024.07.01-13.05.07:011][787]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2024.07.01-13.05.07:012][787]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2024.07.01-13.05.07:014][787]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2024.07.01-13.05.07:014][787]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2024.07.01-13.05.07:014][787]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2024.07.01-13.05.07:015][787]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2024.07.01-13.05.07:015][787]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2024.07.01-13.05.07:015][787]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2024.07.01-13.05.07:015][787]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2024.07.01-13.05.07:015][787]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2024.07.01-13.05.07:016][787]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2024.07.01-13.05.07:016][787]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2024.07.01-13.05.07:017][787]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2024.07.01-13.05.07:017][787]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2024.07.01-13.05.07:017][787]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2024.07.01-13.05.07:017][787]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2024.07.01-13.05.07:017][787]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2024.07.01-13.05.07:018][787]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2024.07.01-13.05.07:018][787]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2024.07.01-13.05.07:019][787]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2024.07.01-13.05.07:020][787]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2024.07.01-13.05.07:025][787]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2024.07.01-13.05.07:025][787]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2024.07.01-13.05.07:025][787]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2024.07.01-13.05.07:025][787]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2024.07.01-13.05.07:025][787]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2024.07.01-13.05.07:031][787]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2024.07.01-13.05.07:036][787]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2024.07.01-13.05.07:050][787]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2024.07.01-13.05.07:050][787]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2024.07.01-13.05.07:050][787]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2024.07.01-13.05.07:050][787]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2024.07.01-13.05.07:050][787]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2024.07.01-13.05.07:052][787]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2024.07.01-13.05.07:052][787]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.07.01-13.05.07:053][787]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2024.07.01-13.05.07:054][787]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2024.07.01-13.05.07:054][787]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2024.07.01-13.05.07:054][787]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2024.07.01-13.05.07:054][787]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2024.07.01-13.05.07:054][787]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2024.07.01-13.05.07:055][787]LogHMD: Freeing OpenVRDLLHandle.
+[2024.07.01-13.05.07:055][787]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2024.07.01-13.05.07:055][787]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2024.07.01-13.05.07:055][787]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2024.07.01-13.05.07:056][787]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.07.01-13.05.07:056][787]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2024.07.01-13.05.07:057][787]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2024.07.01-13.05.07:057][787]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2024.07.01-13.05.07:059][787]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2024.07.01-13.05.07:059][787]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2024.07.01-13.05.07:059][787]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2024.07.01-13.05.07:059][787]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2024.07.01-13.05.07:059][787]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2024.07.01-13.05.07:062][787]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2024.07.01-13.05.07:063][787]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2024.07.01-13.05.07:103][787]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2024.07.01-13.05.07:103][787]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.07.01-13.05.07:103][787]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B8B1F13-4777-9588-F559-B2A399AEB9AA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.07.01-13.05.07:103][787]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.07.01-13.05.07:112][787]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2024.07.01-13.05.07:114][787]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2024.07.01-13.05.07:115][787]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2024.07.01-13.05.07:115][787]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2024.07.01-13.05.07:120][787]LogModuleManager: Shutting down and abandoning module Media (69)
+[2024.07.01-13.05.07:121][787]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2024.07.01-13.05.07:121][787]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2024.07.01-13.05.07:122][787]LogModuleManager: Shutting down and abandoning module VariantManagerContent (62)
+[2024.07.01-13.05.07:122][787]LogModuleManager: Shutting down and abandoning module ChaosCloth (60)
+[2024.07.01-13.05.07:122][787]LogModuleManager: Shutting down and abandoning module DatasmithContent (58)
+[2024.07.01-13.05.07:122][787]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2024.07.01-13.05.07:122][787]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2024.07.01-13.05.07:122][787]LogModuleManager: Shutting down and abandoning module PixWinPlugin (52)
+[2024.07.01-13.05.07:123][787]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.07.01-13.05.07:123][787]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.07.01-13.05.07:123][787]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2024.07.01-13.05.07:123][787]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2024.07.01-13.05.07:123][787]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2024.07.01-13.05.07:123][787]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (40)
+[2024.07.01-13.05.07:124][787]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2024.07.01-13.05.07:124][787]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2024.07.01-13.05.07:124][787]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2024.07.01-13.05.07:125][787]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2024.07.01-13.05.07:128][787]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2024.07.01-13.05.07:128][787]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.07.01-13.05.07:128][787]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.07.01-13.05.07:129][787]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.07.01-13.05.07:129][787]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.07.01-13.05.07:132][787]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.07.01-13.05.07:132][787]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.07.01-13.05.07:132][787]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.07.01-13.05.07:132][787]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.07.01-13.05.07:132][787]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.07.01-13.05.07:133][787]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.07.01-13.05.07:133][787]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.07.01-13.05.07:133][787]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.07.01-13.05.07:133][787]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.07.01-13.05.07:133][787]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.07.01-13.05.07:133][787]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.07.01-13.05.07:181][787]LogD3D11RHI: Shutdown
+[2024.07.01-13.05.07:181][787]LogD3D11RHI: CleanupD3DDevice
+[2024.07.01-13.05.07:187][787]LogExit: Exiting.
+[2024.07.01-13.05.07:199][787]Log file closed, 07/01/24 15:05:07
