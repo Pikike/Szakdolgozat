@@ -1,0 +1,3 @@
+[submodule "AssimpProject/Plugins/UE4_Assimp"]
+	path = AssimpProject/Plugins/UE4_Assimp
+	url = https://github.com/Pikike/UE4_Assimp
