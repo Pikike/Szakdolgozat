@@ -32,8 +32,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Inc\AssimpProject"
-/I "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Source"
+/I "C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Inc\AssimpProject"
+/I "C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Source\AssimpProject\AssimpProject.cpp"
-/FI"C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\Definitions.AssimpProject.h"
-/Fo"C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\AssimpProject.cpp.obj"
+/FI"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Source\AssimpProject\AssimpProject.cpp"
+/FI"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\Definitions.AssimpProject.h"
+/Fo"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\AssimpProject.cpp.obj"
 /TP
 /GR-
 /W4
