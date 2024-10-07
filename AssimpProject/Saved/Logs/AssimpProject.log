@@ -2006,3 +2006,575 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.07-15.23.58:748][ 14]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.07-15.23.58:748][ 14]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.10.07-15.23.58:748][ 14]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.10.07-15.28.08:630][ 73]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.07-15.28.08:636][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-15.28.08:636][ 73]PIE: New page: PIE session: Minimal_Default (2024. okt. 7. 19:28:08)
+[2024.10.07-15.28.08:669][ 73]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.28.08:675][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004766s)
+[2024.10.07-15.28.08:676][ 73]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.07-15.28.08:676][ 73]LogPlayLevel: PIE: World Init took: (0.001618s)
+[2024.10.07-15.28.08:676][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006723s)
+[2024.10.07-15.28.08:709][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.10.07-15.28.08:711][ 73]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-15.28.08:712][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-15.28.08:712][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-15.28.08:712][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-15.28.08:712][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-15.28.08:712][ 73]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-15.28.08:715][ 73]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-15.28.08:715][ 73]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-15.28.08:723][ 73]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.07-15.28.08:724][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-15.28.08:724][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-15.28.08:724][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-15.28.08:724][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-15.28.08:725][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-15.28.08:725][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-15.28.08:726][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-15.28.08:726][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-15.28.08:726][ 73]LogInit: FAudioDevice initialized.
+[2024.10.07-15.28.08:726][ 73]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2024.10.07-15.28.08:739][ 73]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.07-15.28.08:740][ 73]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.07-17.28.08
+[2024.10.07-15.28.08:741][ 73]LogWorld: Bringing up level for play took: 0.000839
+[2024.10.07-15.28.08:741][ 73]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.28.08:746][ 73]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.28.08:746][ 73]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.28.08:747][ 73]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.28.08:747][ 73]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.28.08:747][ 73]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.28.08:747][ 73]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.28.08:747][ 73]PIE: Server logged in
+[2024.10.07-15.28.08:748][ 73]PIE: Play in editor total start time 0,112 seconds.
+[2024.10.07-15.28.30:794][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.28.30:794][ 56]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.28.30:794][ 56]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-15.28.30:795][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.28.30:807][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-15.28.30:826][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.28.30:858][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.28.30:858][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.28.30:858][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.28.30:865][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2024.10.07-15.28.30:904][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.10.07-15.28.46:987][475]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.10.07-15.28.47:825][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.07-15.28.51:507][870]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.10.07-15.28.52:399][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.07-15.29.04:059][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.07-15.29.05:058][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.07-15.29.06:722][209]Cmd: DELETE
+[2024.10.07-15.29.06:722][209]Cmd: ACTOR DELETE
+[2024.10.07-15.29.06:735][209]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.10.07-15.29.06:769][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2024.10.07-15.29.06:773][209]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.10.07-15.29.07:729][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.07-15.29.43:605][367]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.07-15.29.43:612][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-15.29.43:612][367]PIE: New page: PIE session: Minimal_Default (2024. okt. 7. 19:29:43)
+[2024.10.07-15.29.43:645][367]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.29.43:650][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004041s)
+[2024.10.07-15.29.43:651][367]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.07-15.29.43:651][367]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2024.10.07-15.29.43:651][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005479s)
+[2024.10.07-15.29.43:684][367]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2024.10.07-15.29.43:686][367]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-15.29.43:686][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-15.29.43:686][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-15.29.43:687][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-15.29.43:687][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-15.29.43:687][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-15.29.43:687][367]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-15.29.43:691][367]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-15.29.43:691][367]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-15.29.43:699][367]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.07-15.29.43:699][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-15.29.43:699][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-15.29.43:699][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-15.29.43:700][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-15.29.43:700][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-15.29.43:700][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-15.29.43:701][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-15.29.43:701][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-15.29.43:701][367]LogInit: FAudioDevice initialized.
+[2024.10.07-15.29.43:701][367]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2024.10.07-15.29.43:713][367]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.07-15.29.43:716][367]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.07-17.29.43
+[2024.10.07-15.29.43:717][367]LogWorld: Bringing up level for play took: 0.001412
+[2024.10.07-15.29.43:717][367]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.29.43:721][367]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.29.43:721][367]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.29.43:721][367]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.29.43:721][367]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.29.43:721][367]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.29.43:721][367]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.29.43:721][367]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.07-15.29.43:721][367]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.29.43:721][367]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.29.43:721][367]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.29.43:721][367]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.07-15.29.43:721][367]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.29.43:721][367]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.29.43:721][367]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.29.43:722][367]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.29.43:722][367]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.29.43:722][367]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.29.43:722][367]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.29.43:722][367]PIE: Server logged in
+[2024.10.07-15.29.43:723][367]PIE: Play in editor total start time 0,111 seconds.
+[2024.10.07-15.29.58:240][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.29.58:240][505]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.29.58:240][505]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-15.29.58:240][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.29.58:254][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-15.29.58:275][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.29.58:303][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.29.58:304][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.29.58:304][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.29.58:314][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.10.07-15.29.58:356][506]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.10.07-15.30.09:863][479]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2024.10.07-15.30.50:314][226]LogActorFactory: Actor Factory created Wall_500x500
+[2024.10.07-15.30.53:441][413]LogActorFactory: Actor Factory created Wall_500x500
+[2024.10.07-15.31.39:700][753]Cmd: EDIT COPY
+[2024.10.07-15.31.40:163][791]Cmd: EDIT PASTE
+[2024.10.07-15.32.00:476][337]Cmd: EDIT COPY
+[2024.10.07-15.32.01:023][375]Cmd: EDIT PASTE
+[2024.10.07-15.32.29:937][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.10.07-15.32.39:414][303]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall_500x502)
+[2024.10.07-15.33.45:295][868]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.07-15.33.45:304][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-15.33.45:304][868]PIE: New page: PIE session: Minimal_Default (2024. okt. 7. 19:33:45)
+[2024.10.07-15.33.45:304][868]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.33.45:308][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004120s)
+[2024.10.07-15.33.45:309][868]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.07-15.33.45:309][868]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2024.10.07-15.33.45:309][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005950s)
+[2024.10.07-15.33.45:343][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2024.10.07-15.33.45:348][868]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-15.33.45:349][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-15.33.45:349][868]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-15.33.45:349][868]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-15.33.45:349][868]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-15.33.45:349][868]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-15.33.45:353][868]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-15.33.45:353][868]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-15.33.45:361][868]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.07-15.33.45:361][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-15.33.45:361][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-15.33.45:361][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-15.33.45:362][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-15.33.45:362][868]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-15.33.45:362][868]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-15.33.45:363][868]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-15.33.45:363][868]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-15.33.45:363][868]LogInit: FAudioDevice initialized.
+[2024.10.07-15.33.45:363][868]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2024.10.07-15.33.45:374][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.07-15.33.45:376][868]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.07-17.33.45
+[2024.10.07-15.33.45:377][868]LogWorld: Bringing up level for play took: 0.001228
+[2024.10.07-15.33.45:377][868]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2024.10.07-15.33.45:381][868]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.33.45:381][868]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.33.45:381][868]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.33.45:381][868]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.33.45:381][868]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.33.45:381][868]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.33.45:381][868]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.33.45:381][868]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.33.45:381][868]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.33.45:381][868]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.33.45:381][868]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.33.45:381][868]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.07-15.33.45:381][868]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.33.45:381][868]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.33.45:381][868]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.33.45:381][868]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.33.45:382][868]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.07-15.33.45:382][868]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.33.45:382][868]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.33.45:382][868]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.33.45:382][868]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.33.45:382][868]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.33.45:382][868]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.33.45:382][868]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.33.45:382][868]PIE: Server logged in
+[2024.10.07-15.33.45:382][868]PIE: Play in editor total start time 0,081 seconds.
+[2024.10.07-15.34.12:980][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.34.12:980][761]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.34.12:981][761]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-15.34.12:981][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.34.12:995][761]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-15.34.13:018][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.34.13:047][761]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.07-15.34.13:047][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.34.13:049][761]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.34.13:051][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.34.13:055][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2024.10.07-15.34.13:100][762]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.10.07-15.34.16:763][  0]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.07-15.34.16:769][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-15.34.16:769][  0]PIE: New page: PIE session: Minimal_Default (2024. okt. 7. 19:34:16)
+[2024.10.07-15.34.16:769][  0]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.34.16:774][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004083s)
+[2024.10.07-15.34.16:774][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.07-15.34.16:774][  0]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2024.10.07-15.34.16:774][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005499s)
+[2024.10.07-15.34.16:808][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.10.07-15.34.16:809][  0]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.10.07-15.34.16:809][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-15.34.16:809][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-15.34.16:809][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-15.34.16:809][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-15.34.16:809][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-15.34.16:810][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-15.34.16:810][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-15.34.16:810][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-15.34.16:810][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-15.34.16:810][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-15.34.16:810][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-15.34.16:810][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-15.34.16:813][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-15.34.16:813][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-15.34.16:820][  0]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.07-15.34.16:821][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-15.34.16:821][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-15.34.16:821][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-15.34.16:821][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-15.34.16:821][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-15.34.16:821][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-15.34.16:823][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-15.34.16:823][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-15.34.16:823][  0]LogInit: FAudioDevice initialized.
+[2024.10.07-15.34.16:823][  0]LogAudio: Display: Audio Device (ID: 11) registered with world 'Minimal_Default'.
+[2024.10.07-15.34.16:836][  0]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.07-15.34.16:838][  0]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.07-17.34.16
+[2024.10.07-15.34.16:838][  0]LogWorld: Bringing up level for play took: 0.000897
+[2024.10.07-15.34.16:839][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2024.10.07-15.34.16:841][  0]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.16:841][  0]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.34.16:842][  0]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.34.16:842][  0]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.16:842][  0]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.16:842][  0]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.16:842][  0]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.16:842][  0]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.34.16:842][  0]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.16:842][  0]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.16:842][  0]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.34.16:842][  0]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.16:842][  0]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.16:842][  0]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.16:842][  0]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.34.16:842][  0]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.16:842][  0]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.16:843][  0]PIE: Server logged in
+[2024.10.07-15.34.16:844][  0]PIE: Play in editor total start time 0,076 seconds.
+[2024.10.07-15.34.25:960][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.34.25:960][647]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.34.25:962][647]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-15.34.25:962][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.34.25:973][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-15.34.25:994][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.34.26:028][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.34.26:028][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.34.26:030][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.34.26:037][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.10.07-15.34.26:081][648]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.10.07-15.34.27:467][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_500x502)
+[2024.10.07-15.34.34:133][162]Cmd: EDIT COPY
+[2024.10.07-15.34.34:672][201]Cmd: EDIT PASTE
+[2024.10.07-15.34.52:708][385]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.07-15.34.52:714][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-15.34.52:714][385]PIE: New page: PIE session: Minimal_Default (2024. okt. 7. 19:34:52)
+[2024.10.07-15.34.52:714][385]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.34.52:719][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004470s)
+[2024.10.07-15.34.52:719][385]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.07-15.34.52:721][385]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2024.10.07-15.34.52:721][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006021s)
+[2024.10.07-15.34.52:754][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2024.10.07-15.34.52:757][385]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-15.34.52:757][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-15.34.52:757][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-15.34.52:757][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-15.34.52:757][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-15.34.52:757][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-15.34.52:758][385]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-15.34.52:761][385]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-15.34.52:761][385]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-15.34.52:768][385]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.07-15.34.52:770][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-15.34.52:770][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-15.34.52:770][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-15.34.52:770][385]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-15.34.52:770][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-15.34.52:770][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-15.34.52:772][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-15.34.52:772][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-15.34.52:772][385]LogInit: FAudioDevice initialized.
+[2024.10.07-15.34.52:772][385]LogAudio: Display: Audio Device (ID: 12) registered with world 'Minimal_Default'.
+[2024.10.07-15.34.52:781][385]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.07-15.34.52:782][385]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.07-17.34.52
+[2024.10.07-15.34.52:782][385]LogWorld: Bringing up level for play took: 0.000869
+[2024.10.07-15.34.52:783][385]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2024.10.07-15.34.52:786][385]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.52:786][385]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.34.52:786][385]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.34.52:787][385]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.52:787][385]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.52:787][385]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.52:787][385]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.52:787][385]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.34.52:787][385]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.52:787][385]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.52:787][385]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.34.52:787][385]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.52:787][385]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.52:787][385]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.34.52:787][385]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.34.52:787][385]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.34.52:787][385]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.34.52:787][385]PIE: Server logged in
+[2024.10.07-15.34.52:789][385]PIE: Play in editor total start time 0,076 seconds.
+[2024.10.07-15.35.01:204][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.35.01:204][955]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.35.01:205][955]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-15.35.01:205][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.35.01:216][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-15.35.01:237][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.35.01:266][955]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.07-15.35.01:266][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.35.01:267][955]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.35.01:271][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.35.01:275][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.10.07-15.35.01:319][956]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.10.07-15.35.07:719][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2024.10.07-15.35.07:734][346]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_DefaultCC0472764CB1BCD3A85624B9EC6E7C88.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.10.07-15.35.07:788][346]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default_BuiltDataF4DB65D14EA65768FEF24282C62900EF.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.10.07-15.35.07:807][346]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.07-15.35.07:807][346]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.10.07-15.35.07:807][346]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.10.07-15.35.14:602][819]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2024.10.07-15.35.54:689][528]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2024.10.07-15.35.55:365][571]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2024.10.07-15.35.56:636][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2024.10.07-15.36.33:724][509]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.07-15.36.33:733][509]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.07-15.36.33:733][509]PIE: New page: PIE session: Minimal_Default (2024. okt. 7. 19:36:33)
+[2024.10.07-15.36.33:756][509]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.36.33:762][509]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004459s)
+[2024.10.07-15.36.33:763][509]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.07-15.36.33:763][509]LogPlayLevel: PIE: World Init took: (0.001843s)
+[2024.10.07-15.36.33:763][509]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.006568s)
+[2024.10.07-15.36.33:803][509]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.10.07-15.36.33:808][509]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.07-15.36.33:808][509]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.07-15.36.33:808][509]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.07-15.36.33:808][509]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.07-15.36.33:808][509]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.07-15.36.33:808][509]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.07-15.36.33:814][509]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-15.36.33:814][509]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-15.36.33:821][509]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.07-15.36.33:821][509]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.07-15.36.33:821][509]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.07-15.36.33:821][509]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.07-15.36.33:822][509]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.07-15.36.33:822][509]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.07-15.36.33:822][509]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.07-15.36.33:823][509]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.07-15.36.33:824][509]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.07-15.36.33:824][509]LogInit: FAudioDevice initialized.
+[2024.10.07-15.36.33:824][509]LogAudio: Display: Audio Device (ID: 13) registered with world 'Minimal_Default'.
+[2024.10.07-15.36.33:831][509]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.07-15.36.33:834][509]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.07-17.36.33
+[2024.10.07-15.36.33:834][509]LogWorld: Bringing up level for play took: 0.001138
+[2024.10.07-15.36.33:834][509]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2024.10.07-15.36.33:837][509]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.36.33:837][509]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.36.33:837][509]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.36.33:837][509]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.36.33:837][509]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.36.33:837][509]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.36.33:837][509]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.36.33:837][509]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.36.33:837][509]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.36.33:837][509]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.07-15.36.33:837][509]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.36.33:838][509]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.07-15.36.33:838][509]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.36.33:838][509]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.36.33:838][509]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.07-15.36.33:838][509]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.36.33:838][509]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.07-15.36.33:838][509]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.36.33:838][509]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.36.33:838][509]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.07-15.36.33:838][509]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.07-15.36.33:838][509]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.07-15.36.33:838][509]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.07-15.36.33:838][509]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.07-15.36.33:838][509]PIE: Server logged in
+[2024.10.07-15.36.33:839][509]PIE: Play in editor total start time 0,108 seconds.
+[2024.10.07-15.36.49:598][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.36.49:599][517]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.07-15.36.49:599][517]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-15.36.49:599][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.36.49:613][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.07-15.36.49:635][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-15.36.49:666][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.07-15.36.49:666][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.36.49:667][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.07-15.36.49:670][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.07-15.36.49:674][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2024.10.07-15.36.49:719][518]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.10.07-15.36.52:046][638]MapCheck: New page: Map Check
+[2024.10.07-15.36.52:089][638]Cmd: MAP REBUILD ALLVISIBLE
+[2024.10.07-15.36.52:089][638]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2024.10.07-15.36.52:092][638]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=false
+[2024.10.07-15.36.52:102][638]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2024.10.07-15.36.52:102][638]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2024.10.07-15.36.52:102][638]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2024.10.07-15.36.52:135][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2024.10.07-15.36.52:152][638]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2024.10.07-15.36.52:157][638]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2024.10.07-15.36.52:188][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.10.07-15.36.52:194][638]LightingResults: New page: Lighting Build - 2024. okt. 7. 19:36:52
+[2024.10.07-15.36.52:219][638]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2024.10.07-15.36.52:230][638]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2024.10.07-15.36.52:231][638]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2024.10.07-15.36.52:233][638]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2024.10.07-15.36.52:233][638]LogSwarmInterface: [TryOpenConnection] Local Process ID is 43404
+[2024.10.07-15.36.57:638][638]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2024.10.07-15.36.57:638][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2024.10.07-15.36.57:638][638]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2024.10.07-15.36.57:638][638]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2024.10.07-15.36.57:638][638]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2024.10.07-15.36.57:638][638]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2024.10.07-15.36.57:939][638]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2024.10.07-15.36.57:939][638]MapCheck: New page: Minimal_Default - 2024. okt. 7. 19:36:57
+[2024.10.07-15.36.57:940][638]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2024.10.07-15.36.57:940][638]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,809ms to complete.
+[2024.10.07-15.36.57:944][638]LogEditorBuildUtils: Build time 0:05
+[2024.10.07-15.36.57:965][638]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: 63280B11FAC70BB1C0F719587E1EC1404048CF91), compiling. 
+[2024.10.07-15.36.57:974][638]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2024.10.07-15.36.57:976][638]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: FC58FB85B7C760C7294762A7BF22C5F45A1AFF84), compiling. 
+[2024.10.07-15.36.57:979][638]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2024.10.07-15.36.58:061][639]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2024.10.07-15.36.58:061][639]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2024.10.07-15.36.58:061][639]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2024.10.07-15.36.58:061][639]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2024.10.07-15.36.58:061][639]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2024.10.07-15.36.59:300][640]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.07-15.36.59:300][640]LogShaderCompilers: Display: Total job queries 62, among them cache hits 0 (0.00%)
+[2024.10.07-15.36.59:300][640]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 25 distinct outputs (40.32%)
+[2024.10.07-15.36.59:301][640]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2024.10.07-15.36.59:301][640]LogShaderCompilers: Display: ================================================
+[2024.10.07-15.36.59:498][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.10.07-15.37.01:155][760]Job is a success!
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.007s
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:      Bricks at depth
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:          0: 12.5% covering 100.0% of volume
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:          1: 12.5% covering 1.6% of volume
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:          2: 75.0% covering 0.1% of volume
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:      Bricks in each level
+[2024.10.07-15.37.01:327][761]LogVolumetricLightmapImport:          Minimal_Default 			 8 bricks 	 100.0% (Persistent Level)
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2024.10.07-15.37.01:473][761]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2024.10.07-15.37.01:473][761]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.07-15.37.01:473][761]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 64X32)
+[2024.10.07-15.37.01:473][761]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2024.10.07-15.37.01:527][761]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X256)
+[2024.10.07-15.37.01:528][761]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 10 meshes in 2 LightmapResourceClusters (5.0 Meshes per cluster).
+[2024.10.07-15.37.01:560][761]Lightmass on DESKTOP-6NQH7V8: 1.57 sec total, 254 ms importing, 14 ms setup, 171 ms photons, 1.08 sec processing, 0 ms extra exporting [10/10 mappings]. Threads: 16.1 sec total, 1.79 sec processing.
+[2024.10.07-15.37.01:565][761]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2024.10.07-15.37.01:655][761]LogStaticLightingSystem: Illumination: 9.35 sec (118 ms encoding lightmaps, 66 ms encoding shadowmaps)
+[2024.10.07-15.37.01:655][761]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2024.10.07-15.37.01:655][761]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2024.10.07-15.37.01:704][761]DumpUnbuiltLightIteractions
+[2024.10.07-15.37.01:704][761]Lights with unbuilt interactions: 0
+[2024.10.07-15.37.01:704][761]
+[2024.10.07-15.37.01:704][761]Primitives with unbuilt interactions: 0
+[2024.10.07-15.37.01:803][761]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2024.10.07-15.37.01:818][761]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2024.10.07-15.37.01:868][762]Cmd: MAP CHECK NOTIFYRESULTS
+[2024.10.07-15.37.01:868][762]MapCheck: New page: Minimal_Default - 2024. okt. 7. 19:37:01
+[2024.10.07-15.37.01:869][762]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,663ms to complete.
