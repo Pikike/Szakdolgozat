@@ -3634,3 +3634,1109 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.10.07-20.09.36:664][455]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.07-20.09.36:664][455]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2024.10.07-20.09.36:664][455]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.10.07-20.11.14:297][622]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-20.11.14:297][622]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.11.15:429][684]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.07-20.11.15:429][684]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-20.11.15:429][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.11.18:887][885]BlueprintLog: New page: Compile FirstPersonGameMode
+[2024.10.07-20.11.18:953][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2024.10.07-20.11.19:538][913]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/FirstPersonGameMode5F5C1E954D8BF8BCC791378FCCF1B4BE.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2024.10.07-20.11.19:555][913]AssetCheck: New page: Asset Save: FirstPersonGameMode
+[2024.10.07-20.11.19:555][913]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2024.10.07-20.11.24:971][226]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.07-20.11.24:971][226]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-20.11.24:971][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.11.51:180][770]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.07-20.11.51:180][770]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.07-20.11.51:181][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.07-20.14.13:352][953]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.07-20.14.13:373][953]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.07-20.19.36:903][748]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2024.10.07-20.19.36:907][748]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.048
+[2024.10.07-20.19.36:908][748]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Menu_UI/BP_MenuWidget] ([4] browsable assets)...
+[2024.10.07-20.19.36:908][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Menu_UI/BP_MenuWidget]
+[2024.10.07-20.19.36:916][748]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidget_Auto18DFAA4E04C56F49E0541DFA6EE24C6CD.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Autosaves/Game/Menu_UI/BP_MenuWidget_Auto1.uasset'
+[2024.10.07-20.19.36:917][748]LogFileHelpers: Auto-saving content packages took 0.009
+[2024.10.07-20.57.17:002][ 95]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.07-20.57.17:006][ 95]LogBlueprint: Error: [AssetLog] C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Content\Menu_UI\BP_MenuWidget.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2024.10.07-20.57.17:060][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2024.10.07-20.57.19:681][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.07-20.57.19:692][230]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidget63CDACC84BA61A51E97C458764C3E643.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.07-20.57.19:714][230]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.07-20.57.19:714][230]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.07-21.00.18:043][911]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{659d043d-ab83-4e36-a96a-73d9f032c2cc}.
+[2024.10.07-21.00.18:044][911]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.07-21.00.18:058][911]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-21.00.18:058][911]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-21.02.20:716][255]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{122e230c-7bf1-49b9-a971-155ba358deae}.
+[2024.10.07-21.02.20:725][255]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.07-21.02.20:744][255]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-21.02.20:744][255]LogAudioMixer: Display: 1: FrontRight
+[2024.10.07-21.05.17:705][857]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{659d043d-ab83-4e36-a96a-73d9f032c2cc}.
+[2024.10.07-21.05.17:719][857]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.07-21.05.17:733][857]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.07-21.05.17:734][857]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-00.27.29:794][ 61]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-00.27.29:832][ 61]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-00.27.29:833][ 61]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.09.45:505][ 68]LogHttp: Warning: 000001E3BFC27200: HTTP request timed out after 27740.97 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48653DA7-442B-D66E-A02E-FA8AD38BB189%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: request failed, libcurl error: 0 (No error)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e35f360b50 [can pipeline])
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 1 (Re-using existing connection! (#22) with host datarouter.ol.epicgames.com)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.98.210) port 443 (#22))
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 4 (TLSv1.3 (OUT), TLS Unknown, Unknown (23):)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 5 (We are completely uploaded and fine)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 6 (Closing connection 22)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 7 (TLSv1.3 (OUT), TLS Unknown, Unknown (21):)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 8 (TLSv1.3 (OUT), TLS alert, Client hello (1):)
+[2024.10.08-08.09.46:378][ 68]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48653DA7-442B-D66E-A02E-FA8AD38BB189%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.08-08.09.47:465][ 68]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-08.09.47:503][ 68]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.09.47:503][ 68]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.09.49:844][ 69]LogHttp: Warning: 000001E3BFC27200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48653DA7-442B-D66E-A02E-FA8AD38BB189%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.10.08-08.09.49:844][ 69]LogHttp: Warning: 000001E3BFC27200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.10.08-08.09.49:844][ 69]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.10.08-08.09.49:844][ 69]LogHttp: Warning: 000001E3BFC27200: libcurl info message cache 1 (Closing connection 23)
+[2024.10.08-08.09.49:866][ 69]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-08.09.49:881][ 69]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.09.49:881][ 69]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.09.49:939][ 70]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B48653DA7-442B-D66E-A02E-FA8AD38BB189%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=4797a0c445ccd5681d6b7198984c1577%7C43405f60babe47fa8d1d51c7f07e8854%7C14a123a0-cdf6-4bda-9318-3109cd3c14f4&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.10.08-08.20.03:801][ 86]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.08-08.20.03:834][ 86]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.08-08.20.06:608][251]LogContentBrowser: Attempting asset rename: NewFolder -> dice
+[2024.10.08-08.20.06:609][251]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.08-08.20.12:128][521]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice2F50B88A64CBDAD8EDA5000B206B8CC23.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/dice2.uasset'
+[2024.10.08-08.20.12:136][521]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicItems/Props/dice2" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice2.uasset" SILENT=true
+[2024.10.08-08.20.12:137][521]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice2500E758146399D5FE809FB9B4183EBE3.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice2.uasset'
+[2024.10.08-08.20.12:253][521]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.08-08.20.12:253][521]LogContentValidation: Display: Validating StaticMesh /Game/BasicItems/Props/dice/dice2.dice2
+[2024.10.08-08.20.12:253][521]LogContentValidation: Display: Validating ObjectRedirector /Game/BasicItems/Props/dice2.dice2
+[2024.10.08-08.20.14:969][652]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice3A7A5F6E142712E8C92EF25AB04ED4A8D.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/dice3.uasset'
+[2024.10.08-08.20.14:978][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BasicItems/Props/dice3" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice3.uasset" SILENT=true
+[2024.10.08-08.20.14:979][652]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice385736A0A42EE52A9FE31D495E50DBF39.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice3.uasset'
+[2024.10.08-08.20.15:058][652]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.08-08.20.15:060][652]LogContentValidation: Display: Validating StaticMesh /Game/BasicItems/Props/dice/dice3.dice3
+[2024.10.08-08.20.15:060][652]LogContentValidation: Display: Validating ObjectRedirector /Game/BasicItems/Props/dice3.dice3
+[2024.10.08-08.20.34:319][351]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.08-08.20.34:322][351]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.10.08-08.20.37:675][351]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.08-08.20.37:688][351]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.08-08.20.37:705][351]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.08-08.20.49:023][ 24]LogContentBrowser: Attempting asset rename: NewBlueprint -> diceActor
+[2024.10.08-08.20.49:037][ 24]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.08-08.20.53:776][175]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BasicItems/Props/dice/diceActor.diceActor
+[2024.10.08-08.22.26:889][534]BlueprintLog: New page: Compile diceActor
+[2024.10.08-08.22.26:976][534]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2024.10.08-08.22.27:831][577]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceActor79053DD945B97E52C1770EAF87976DCE.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceActor.uasset'
+[2024.10.08-08.22.27:849][577]AssetCheck: New page: Asset Save: diceActor
+[2024.10.08-08.22.27:849][577]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceActor.diceActor
+[2024.10.08-08.22.31:979][804]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.08-08.22.32:003][804]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.08-08.23.17:523][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (dice2)
+[2024.10.08-08.23.35:291][958]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-08.23.35:334][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2024.10.08-08.23.36:586][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.08-08.23.36:594][ 93]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidget5DC6BFD940327E7A7D449980B4B9B9D2.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.08-08.23.36:613][ 93]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.08-08.23.36:613][ 93]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-08.23.37:748][210]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.08-08.23.37:755][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.08-08.23.37:755][210]PIE: New page: PIE session: Minimal_Default (2024. okt. 8. 12:23:37)
+[2024.10.08-08.23.37:755][210]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.23.37:768][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011625s)
+[2024.10.08-08.23.37:769][210]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.08-08.23.37:770][210]LogPlayLevel: PIE: World Init took: (0.002277s)
+[2024.10.08-08.23.37:770][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.014066s)
+[2024.10.08-08.23.37:809][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2024.10.08-08.23.37:810][210]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.08-08.23.37:810][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.08-08.23.37:810][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.08-08.23.37:811][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.08-08.23.37:811][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.08-08.23.37:811][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.08-08.23.37:811][210]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.08-08.23.37:815][210]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.23.37:815][210]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.23.37:824][210]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.08-08.23.37:824][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.08-08.23.37:824][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.08-08.23.37:824][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.08-08.23.37:825][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.08-08.23.37:825][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.08-08.23.37:825][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.08-08.23.37:827][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.08-08.23.37:827][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.08-08.23.37:827][210]LogInit: FAudioDevice initialized.
+[2024.10.08-08.23.37:827][210]LogAudio: Display: Audio Device (ID: 22) registered with world 'Minimal_Default'.
+[2024.10.08-08.23.37:877][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.23.37:877][210]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.08-08.23.37:878][210]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.08-10.23.37
+[2024.10.08-08.23.37:879][210]LogWorld: Bringing up level for play took: 0.001231
+[2024.10.08-08.23.37:880][210]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2024.10.08-08.23.37:886][210]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.23.37:886][210]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.23.37:886][210]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.23.37:886][210]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.23.37:886][210]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.23.37:886][210]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.23.37:886][210]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.23.37:886][210]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.23.37:886][210]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.23.37:886][210]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.23.37:886][210]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.23.37:886][210]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.08-08.23.37:886][210]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.23.37:886][210]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.23.37:886][210]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.23.37:886][210]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.23.37:886][210]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.08-08.23.37:886][210]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.23.37:887][210]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.23.37:887][210]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.23.37:887][210]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.23.37:887][210]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.23.37:887][210]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.23.37:887][210]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.23.37:890][210]PIE: Server logged in
+[2024.10.08-08.23.37:891][210]PIE: Play in editor total start time 0,136 seconds.
+[2024.10.08-08.24.01:877][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.24.01:877][806]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.24.01:877][806]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.08-08.24.01:888][806]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-08.24.01:889][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.24.01:901][806]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.08-08.24.01:922][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.24.01:954][806]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.08-08.24.01:954][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.24.01:955][806]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.24.01:964][806]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2024.10.08-08.24.01:988][807]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.10.08-08.24.14:945][197]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-08.24.14:987][197]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2024.10.08-08.24.23:561][148]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-08.24.23:603][148]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2024.10.08-08.24.24:756][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.08-08.24.24:766][272]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidgetEC5A2DD9403B3A8640BC00A68CF48837.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.08-08.24.24:786][272]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.08-08.24.24:786][272]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-08.24.25:952][382]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.08-08.24.25:958][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.08-08.24.25:958][382]PIE: New page: PIE session: Minimal_Default (2024. okt. 8. 12:24:25)
+[2024.10.08-08.24.25:959][382]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.24.25:963][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004036s)
+[2024.10.08-08.24.25:964][382]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.08-08.24.25:964][382]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2024.10.08-08.24.25:964][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005271s)
+[2024.10.08-08.24.26:002][382]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2024.10.08-08.24.26:003][382]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.08-08.24.26:003][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.08-08.24.26:003][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.08-08.24.26:003][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.08-08.24.26:003][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.08-08.24.26:003][382]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.08-08.24.26:005][382]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.24.26:005][382]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.24.26:013][382]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.08-08.24.26:014][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.08-08.24.26:014][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.08-08.24.26:014][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.08-08.24.26:014][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.08-08.24.26:014][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.08-08.24.26:014][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.08-08.24.26:016][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.08-08.24.26:016][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.08-08.24.26:016][382]LogInit: FAudioDevice initialized.
+[2024.10.08-08.24.26:016][382]LogAudio: Display: Audio Device (ID: 23) registered with world 'Minimal_Default'.
+[2024.10.08-08.24.26:066][382]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.24.26:066][382]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.08-08.24.26:069][382]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.08-10.24.26
+[2024.10.08-08.24.26:069][382]LogWorld: Bringing up level for play took: 0.001327
+[2024.10.08-08.24.26:069][382]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.26:073][382]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.26:073][382]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.26:073][382]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.24.26:073][382]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.26:073][382]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.24.26:073][382]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.26:073][382]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.26:073][382]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.24.26:073][382]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.26:073][382]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.26:075][382]PIE: Server logged in
+[2024.10.08-08.24.26:075][382]PIE: Play in editor total start time 0,118 seconds.
+[2024.10.08-08.24.37:609][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.24.37:609][240]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.24.37:609][240]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.08-08.24.37:619][240]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-08.24.37:619][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.24.37:634][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.08-08.24.37:654][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.24.37:687][240]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.08-08.24.37:687][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.24.37:688][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.24.37:698][240]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2024.10.08-08.24.37:720][241]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.10.08-08.24.44:633][996]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-08.24.44:675][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2024.10.08-08.24.45:421][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.08-08.24.45:429][ 70]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidget01A20B5845C13C8ECE7D1EA8CA63C7AA.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.08-08.24.45:448][ 70]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.08-08.24.45:448][ 70]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-08.24.46:541][178]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.08-08.24.46:547][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.08-08.24.46:548][178]PIE: New page: PIE session: Minimal_Default (2024. okt. 8. 12:24:46)
+[2024.10.08-08.24.46:548][178]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.24.46:551][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003527s)
+[2024.10.08-08.24.46:552][178]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.08-08.24.46:553][178]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2024.10.08-08.24.46:553][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004892s)
+[2024.10.08-08.24.46:592][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2024.10.08-08.24.46:592][178]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.10.08-08.24.46:592][178]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.08-08.24.46:592][178]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.08-08.24.46:592][178]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.08-08.24.46:592][178]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.08-08.24.46:593][178]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.08-08.24.46:593][178]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.08-08.24.46:593][178]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.08-08.24.46:593][178]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.08-08.24.46:593][178]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.08-08.24.46:593][178]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.08-08.24.46:593][178]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.08-08.24.46:593][178]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.08-08.24.46:596][178]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.24.46:596][178]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.24.46:602][178]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.08-08.24.46:602][178]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.08-08.24.46:602][178]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.08-08.24.46:602][178]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.08-08.24.46:602][178]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.08-08.24.46:602][178]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.08-08.24.46:602][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.08-08.24.46:604][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.08-08.24.46:605][178]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.08-08.24.46:605][178]LogInit: FAudioDevice initialized.
+[2024.10.08-08.24.46:605][178]LogAudio: Display: Audio Device (ID: 24) registered with world 'Minimal_Default'.
+[2024.10.08-08.24.46:665][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.24.46:665][178]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.08-08.24.46:667][178]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.08-10.24.46
+[2024.10.08-08.24.46:667][178]LogWorld: Bringing up level for play took: 0.001374
+[2024.10.08-08.24.46:667][178]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.46:672][178]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.46:672][178]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.46:672][178]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.24.46:672][178]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.46:672][178]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.24.46:672][178]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.46:672][178]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.24.46:672][178]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.24.46:672][178]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.24.46:672][178]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.24.46:675][178]PIE: Server logged in
+[2024.10.08-08.24.46:675][178]PIE: Play in editor total start time 0,129 seconds.
+[2024.10.08-08.24.54:014][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.24.54:014][722]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.24.54:014][722]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.08-08.24.54:024][722]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-08.24.54:024][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.24.54:035][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.08-08.24.54:055][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.24.54:087][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.08-08.24.54:088][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.24.54:089][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.24.54:095][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2024.10.08-08.24.54:117][723]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.10.08-08.25.01:974][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.08-08.25.01:983][589]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidgetCEA7980B47E64FBC627142A0A4ECD853.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.08-08.25.02:000][589]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.08-08.25.02:000][589]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-08.25.02:914][692]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-08.25.02:970][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.10.08-08.25.03:552][745]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.08-08.25.03:560][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.08-08.25.03:560][745]PIE: New page: PIE session: Minimal_Default (2024. okt. 8. 12:25:03)
+[2024.10.08-08.25.03:560][745]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.25.03:564][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004244s)
+[2024.10.08-08.25.03:565][745]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.08-08.25.03:565][745]LogPlayLevel: PIE: World Init took: (0.001149s)
+[2024.10.08-08.25.03:565][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005571s)
+[2024.10.08-08.25.03:601][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.10.08-08.25.03:602][745]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.08-08.25.03:602][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.08-08.25.03:602][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.08-08.25.03:602][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.08-08.25.03:602][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.08-08.25.03:602][745]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.08-08.25.03:605][745]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.25.03:605][745]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.25.03:611][745]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.08-08.25.03:611][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.08-08.25.03:611][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.08-08.25.03:611][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.08-08.25.03:612][745]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.08-08.25.03:612][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.08-08.25.03:612][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.08-08.25.03:614][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.08-08.25.03:614][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.08-08.25.03:614][745]LogInit: FAudioDevice initialized.
+[2024.10.08-08.25.03:614][745]LogAudio: Display: Audio Device (ID: 25) registered with world 'Minimal_Default'.
+[2024.10.08-08.25.03:668][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.25.03:668][745]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.08-08.25.03:670][745]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.08-10.25.03
+[2024.10.08-08.25.03:670][745]LogWorld: Bringing up level for play took: 0.001367
+[2024.10.08-08.25.03:670][745]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2024.10.08-08.25.03:674][745]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.25.03:674][745]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.25.03:674][745]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.25.03:674][745]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.25.03:674][745]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.25.03:674][745]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.25.03:674][745]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.25.03:674][745]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.25.03:674][745]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.25.03:674][745]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-08.25.03:674][745]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.25.03:674][745]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.08-08.25.03:674][745]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.25.03:674][745]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.25.03:675][745]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-08.25.03:675][745]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.25.03:675][745]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.08-08.25.03:675][745]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.25.03:675][745]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.25.03:675][745]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-08.25.03:675][745]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-08.25.03:675][745]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-08.25.03:675][745]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-08.25.03:675][745]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-08.25.03:677][745]PIE: Server logged in
+[2024.10.08-08.25.03:677][745]PIE: Play in editor total start time 0,12 seconds.
+[2024.10.08-08.25.30:719][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-08.25.30:719][424]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-08.25.30:719][424]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.08-08.25.30:730][424]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-08.25.30:730][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.25.30:739][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.08-08.25.30:762][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-08.25.30:795][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.25.30:796][424]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-08.25.30:805][424]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2024.10.08-08.25.30:827][425]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2024.10.08-08.26.15:163][830]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2024.10.08-08.26.15:178][830]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default_Auto20879B67A4F4F1F6CE701D2907BDA1F34.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2024.10.08-08.26.15:180][830]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.050
+[2024.10.08-08.26.15:180][830]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2024.10.08-08.33.49:351][288]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{659d043d-ab83-4e36-a96a-73d9f032c2cc}.
+[2024.10.08-08.33.49:351][288]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-08.33.49:362][288]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.33.49:362][288]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.33.52:705][298]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{122e230c-7bf1-49b9-a971-155ba358deae}.
+[2024.10.08-08.33.52:706][298]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-08.33.52:711][298]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.33.52:711][298]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.38.50:202][185]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{659d043d-ab83-4e36-a96a-73d9f032c2cc}.
+[2024.10.08-08.38.50:202][185]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-08.38.50:209][185]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.38.50:209][185]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.44.44:893][243]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{122e230c-7bf1-49b9-a971-155ba358deae}.
+[2024.10.08-08.44.44:893][243]LogAudioMixer: Resetting audio stream to device id 
+[2024.10.08-08.44.44:900][243]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-08.44.44:900][243]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-08.51.59:958][414]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.08-08.51.59:961][414]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2024.10.08-08.52.01:026][414]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.08-08.52.01:041][414]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.08-08.52.01:058][414]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.08-08.52.20:912][795]LogContentBrowser: Attempting asset rename: NewBlueprint -> diceImageActor
+[2024.10.08-08.52.20:917][795]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.08-08.52.22:739][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-08.55.01:855][400]LogEditorTransaction: Undo Add Component
+[2024.10.08-08.57.56:664][412]LogSlate: Window 'Save Asset As' being destroyed
+[2024.10.08-08.58.07:804][199]LogAssetEditorSubsystem: Opening Asset editor for TextureRenderTarget2D /Game/BasicItems/Props/dice/dice_RT.dice_RT
+[2024.10.08-08.58.07:823][199]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2024.10.08-08.58.32:777][380]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice_RTC5B75FDE4E88B310281BEE901A3E2C4E.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/dice_RT.uasset'
+[2024.10.08-08.58.32:795][380]AssetCheck: New page: Asset Save: dice_RT
+[2024.10.08-08.58.32:795][380]LogContentValidation: Display: Validating TextureRenderTarget2D /Game/BasicItems/Props/dice/dice_RT.dice_RT
+[2024.10.08-08.58.34:571][570]LogRenderer: Reallocating scene render targets to support 1924x1024 Format 10 NumSamples 1 (Frame:24973).
+[2024.10.08-08.59.59:579][916]BlueprintLog: New page: Compile diceImageActor
+[2024.10.08-08.59.59:708][916]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2024.10.08-09.00.00:460][972]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceImageActor93EA67024F7273167B9DD8A1348C6651.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceImageActor.uasset'
+[2024.10.08-09.00.00:488][972]AssetCheck: New page: Asset Save: diceImageActor
+[2024.10.08-09.00.00:488][972]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.00.01:879][100]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.00.01:879][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.00.06:782][443]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.01.00:613][967]BlueprintLog: New page: Compile diceImageActor
+[2024.10.08-09.01.00:713][967]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2024.10.08-09.01.01:775][ 36]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceImageActor51A946A1494CF0B338E1389BEDAC9301.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceImageActor.uasset'
+[2024.10.08-09.01.01:793][ 36]AssetCheck: New page: Asset Save: diceImageActor
+[2024.10.08-09.01.01:793][ 36]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.01.41:154][207]LogContentBrowser: Deferred new asset file creation: dice_RT_Mat
+[2024.10.08-09.01.41:180][207]LogContentBrowser: Creating deferred item: dice_RT_Mat
+[2024.10.08-09.01.49:734][549]LogContentBrowser: Attempting asset rename: dice_RT_Mat -> dice_RT_Mat
+[2024.10.08-09.01.49:746][549]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 12AB75BDC942601DB3838F02FAAA53E71776E055), compiling. 
+[2024.10.08-09.01.49:751][549]LogContentBrowser: End creating deferred item dice_RT_Mat
+[2024.10.08-09.01.49:761][550]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.01.49:761][550]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.10.08-09.01.49:761][550]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.01.49:761][550]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.01.49:773][551]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 14
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 12
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2024.10.08-09.01.49:781][551]LogShaderCompilers: Display: Started 14 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.01.51:220][609]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.08-09.01.51:220][609]LogShaderCompilers: Display: Total job queries 78, among them cache hits 0 (0.00%)
+[2024.10.08-09.01.51:220][609]LogShaderCompilers: Display: Tracking 63 distinct input hashes that result in 25 distinct outputs (39.68%)
+[2024.10.08-09.01.51:220][609]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2024.10.08-09.01.51:220][609]LogShaderCompilers: Display: ================================================
+[2024.10.08-09.01.52:139][642]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat
+[2024.10.08-09.01.52:142][642]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 70C1F7E39221FEB17CD36BF149E1C2EE8E2B0117), compiling. 
+[2024.10.08-09.01.52:180][642]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2024.10.08-09.01.52:277][642]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.10.08-09.01.52:430][642]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: ACCB1772D05CD01535EA250E3EE0A1F7ECADB0C5), compiling. 
+[2024.10.08-09.01.52:435][642]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 846362938F698ADDF60074C7C794AC7AEF9CBE90), compiling. 
+[2024.10.08-09.01.52:438][642]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A7F465786670673F983BBD52081ACF3DD99BF915), compiling. 
+[2024.10.08-09.01.52:464][642]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.01.52:464][642]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.01.52:464][642]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.01.52:534][643]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.01.52:534][643]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.01.52:534][643]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.01.52:534][643]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.01.52:534][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.01.52:534][643]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.01.52:585][648]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.01.52:594][649]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.10.08-09.01.52:594][649]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.01.52:595][649]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.02.23:058][163]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7C0C6ECDB0C0E499591DB81406C3CDBC4DDC21BA), compiling. 
+[2024.10.08-09.02.23:091][163]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.02.23:091][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.02.23:091][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.02.23:141][165]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.02.23:141][165]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.02.23:142][165]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.02.23:142][165]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.02.23:142][165]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.02.23:142][165]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.16:371][730]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9853629151B6EFE89541C17F2A479E38B4A11562), compiling. 
+[2024.10.08-09.03.16:383][730]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.16:383][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.16:383][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.16:393][731]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.03.16:393][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.16:393][731]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.16:429][732]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.03.16:429][732]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.03.16:429][732]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.03.16:429][732]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.03.16:429][732]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.16:429][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.32:688][605]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2B8965AA0ADF396DB338EECDD8C5790D0F799937), compiling. 
+[2024.10.08-09.03.32:699][605]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.32:699][605]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.32:699][605]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.32:730][607]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.03.32:730][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.32:730][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.32:763][608]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.03.32:763][608]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.03.32:763][608]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.03.32:763][608]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.03.32:763][608]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.32:763][608]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.34:001][752]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DCA8AB5AD5730CC1F2A06792D4E5D30A7BDA71B7), compiling. 
+[2024.10.08-09.03.34:007][752]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 08778E7B94B412C8EF93BE67CCB6A2FDC364D487), compiling. 
+[2024.10.08-09.03.34:011][752]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6910EBD5B1E8E2F5FB2D11D25323193C99AA1935), compiling. 
+[2024.10.08-09.03.34:021][752]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.34:021][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.34:021][752]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.34:056][754]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.34:066][755]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.10.08-09.03.34:066][755]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.34:066][755]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2024.10.08-09.03.34:066][755]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.34:067][755]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.03.35:239][829]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.35:239][829]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.35:271][830]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.08-09.03.35:271][830]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.35:271][830]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.36:247][879]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.36:247][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.36:247][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.36:966][910]MaterialEditorStats: Base pass shader: 76 instructions
+[2024.10.08-09.03.36:966][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 103 instructions
+[2024.10.08-09.03.36:966][910]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.03.36:966][910]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.36:966][910]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.36:966][910]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.48:911][557]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: AE01C145785842DF6877BF8B59159AB4F4FAD70E), compiling. 
+[2024.10.08-09.03.48:915][557]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B952991DA4668B4BD5FED81C903FAC233921A7FC), compiling. 
+[2024.10.08-09.03.48:917][557]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: F44BC2A62AB1BB7805F418EC54032A7F43F70488), compiling. 
+[2024.10.08-09.03.48:922][557]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.48:923][557]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.48:923][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.48:961][559]MaterialEditorStats: Base pass shader: 76 instructions
+[2024.10.08-09.03.48:962][559]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 103 instructions
+[2024.10.08-09.03.48:962][559]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.03.48:962][559]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.48:962][559]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.48:962][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.53:073][ 31]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: FC770D433AC64876E4A1953C953087E4552C11DB), compiling. 
+[2024.10.08-09.03.53:078][ 31]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.53:080][ 31]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.53:080][ 31]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.53:096][ 33]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.53:106][ 34]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.03.54:121][ 88]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.54:121][ 88]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.54:136][ 89]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.08-09.03.54:136][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.54:136][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.55:066][145]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.55:066][145]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.55:066][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.55:430][184]MaterialEditorStats: Base pass shader: 80 instructions
+[2024.10.08-09.03.55:430][184]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 107 instructions
+[2024.10.08-09.03.55:431][184]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.03.55:431][184]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.55:431][184]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.55:431][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.55:676][213]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: F7DA1DFB6048C8CBFD18CDB85AD5AD56ED8AFF57), compiling. 
+[2024.10.08-09.03.55:679][213]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4DF7D64C11FE906DC74896B0B16915FE6BFAB5C7), compiling. 
+[2024.10.08-09.03.55:685][213]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.55:685][213]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.55:685][213]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.55:700][215]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.55:706][215]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.10.08-09.03.55:706][215]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.55:706][215]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2024.10.08-09.03.55:706][215]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.10.08-09.03.55:706][215]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.55:707][215]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.03.56:704][263]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.56:704][263]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.56:733][265]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.08-09.03.56:733][265]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.56:733][265]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.57:580][325]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.57:580][325]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.57:580][325]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.57:988][365]MaterialEditorStats: Base pass shader: 81 instructions
+[2024.10.08-09.03.57:988][365]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 108 instructions
+[2024.10.08-09.03.57:988][365]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.03.57:988][365]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.03.57:988][365]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.57:988][365]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.58:782][454]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E0ECDE1454091C3ADADD84DFCDB6DE2FFADF9C98), compiling. 
+[2024.10.08-09.03.58:785][454]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.03.58:785][454]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.58:785][454]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.03.58:800][456]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 11
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 5
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Started 20 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.58:810][457]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.03.59:781][507]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2024.10.08-09.03.59:781][507]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.03.59:805][508]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.08-09.03.59:805][508]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.03.59:805][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.00:893][574]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.04.00:893][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.00:893][574]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.01:935][603]MaterialEditorStats: Base pass shader: 79 instructions
+[2024.10.08-09.04.01:935][603]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2024.10.08-09.04.01:935][603]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.04.01:935][603]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.04.01:935][603]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.01:935][603]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.03:275][607]LogMaterialEditor: Saving and Compiling material dice_RT_Mat
+[2024.10.08-09.04.07:136][607]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D91ECF89B99A2E03661D4BAF98B1017BB5EA9E0B), compiling. 
+[2024.10.08-09.04.07:184][607]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 79B92F0BA2ED1C1CCE259F0DCE02F4D787C9E84E), compiling. 
+[2024.10.08-09.04.07:250][607]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2024.10.08-09.04.07:257][607]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.04.07:470][607]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2024.10.08-09.04.07:470][607]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2024.10.08-09.04.07:514][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.08-09.04.07:585][607]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2024.10.08-09.04.07:590][607]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.04.07:641][607]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice_RT_MatE6D65ABE416455FE0DB2A799962FCF30.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/dice_RT_Mat.uasset'
+[2024.10.08-09.04.07:670][607]AssetCheck: New page: Asset Save: dice_RT_Mat
+[2024.10.08-09.04.07:670][607]LogContentValidation: Display: Validating Material /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat
+[2024.10.08-09.04.07:681][607]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.04.07:682][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.07:682][607]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.08:444][675]MaterialEditorStats: Base pass shader: 79 instructions
+[2024.10.08-09.04.08:444][675]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2024.10.08-09.04.08:444][675]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.04.08:444][675]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.04.08:444][675]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.08:444][675]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.38:410][655]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C3E8F77B3F3A0CB8089B95A8C94536E2D9127F14), compiling. 
+[2024.10.08-09.04.38:416][655]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.04.38:416][655]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.38:416][655]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.38:434][657]LogShaderCompilers: Display: Submitted 19 shader compile jobs with 'Normal' priority
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 19
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 17
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2024.10.08-09.04.38:443][658]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2024.10.08-09.04.38:444][658]LogShaderCompilers: Display: Started 19 'Local' shader compile jobs with 'Normal' priority
+[2024.10.08-09.04.38:881][689]MaterialEditorStats: Texture samplers: 1/16
+[2024.10.08-09.04.38:882][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.38:882][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.38:996][696]MaterialEditorStats: Texture samplers: 2/16
+[2024.10.08-09.04.38:996][696]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.38:996][696]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.39:558][749]MaterialEditorStats: Default UI Pixel Shader: 34 instructions
+[2024.10.08-09.04.39:558][749]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2024.10.08-09.04.39:558][749]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2024.10.08-09.04.39:558][749]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.04.39:558][749]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.04.39:558][749]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.04.44:424][301]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-09.04.44:475][301]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2024.10.08-09.04.45:591][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.08-09.04.45:599][416]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidgetDFDECD8F472774BE0149F8B58305E6E6.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.08-09.04.45:616][416]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.08-09.04.45:616][416]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-09.04.46:331][486]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.08-09.04.46:339][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.08-09.04.46:339][486]PIE: New page: PIE session: Minimal_Default (2024. okt. 8. 13:04:46)
+[2024.10.08-09.04.46:339][486]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-09.04.46:348][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009094s)
+[2024.10.08-09.04.46:348][486]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.08-09.04.46:348][486]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2024.10.08-09.04.46:348][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.010284s)
+[2024.10.08-09.04.46:398][486]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2024.10.08-09.04.46:398][486]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.08-09.04.46:398][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.08-09.04.46:399][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.08-09.04.46:399][486]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.08-09.04.46:399][486]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.08-09.04.46:399][486]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.08-09.04.46:399][486]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.08-09.04.46:402][486]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-09.04.46:402][486]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-09.04.46:408][486]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.08-09.04.46:409][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.08-09.04.46:409][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.08-09.04.46:409][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.08-09.04.46:409][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.08-09.04.46:409][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.08-09.04.46:409][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.08-09.04.46:411][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.08-09.04.46:411][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.08-09.04.46:411][486]LogInit: FAudioDevice initialized.
+[2024.10.08-09.04.46:411][486]LogAudio: Display: Audio Device (ID: 26) registered with world 'Minimal_Default'.
+[2024.10.08-09.04.46:463][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-09.04.46:464][486]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.08-09.04.46:466][486]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.08-11.04.46
+[2024.10.08-09.04.46:466][486]LogWorld: Bringing up level for play took: 0.001236
+[2024.10.08-09.04.46:466][486]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2024.10.08-09.04.46:470][486]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.04.46:470][486]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-09.04.46:470][486]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-09.04.46:470][486]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.04.46:470][486]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.04.46:470][486]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.04.46:471][486]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.04.46:471][486]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-09.04.46:471][486]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.04.46:471][486]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.04.46:471][486]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-09.04.46:471][486]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.04.46:471][486]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.04.46:471][486]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.04.46:471][486]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-09.04.46:471][486]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.04.46:471][486]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.04.46:474][486]PIE: Server logged in
+[2024.10.08-09.04.46:475][486]PIE: Play in editor total start time 0,137 seconds.
+[2024.10.08-09.05.01:008][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-09.05.01:008][483]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-09.05.01:008][483]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.08-09.05.01:018][483]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.05.01:018][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.05.01:029][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.08-09.05.01:051][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.05.01:090][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.08-09.05.01:090][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-09.05.01:091][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-09.05.01:101][483]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.10.08-09.05.01:118][484]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.10.08-09.06.01:841][996]LogMaterialEditor: Saving and Compiling material dice_RT_Mat
+[2024.10.08-09.06.01:887][996]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice_RT_Mat4621BCA34960154B1F4267AF965BB747.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/dice_RT_Mat.uasset'
+[2024.10.08-09.06.01:904][996]AssetCheck: New page: Asset Save: dice_RT_Mat
+[2024.10.08-09.06.01:904][996]LogContentValidation: Display: Validating Material /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat
+[2024.10.08-09.06.18:720][903]BlueprintLog: New page: Compile diceImageActor
+[2024.10.08-09.06.18:786][903]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2024.10.08-09.06.19:883][987]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceImageActor906EF3C249601F3D0D439183327E3E94.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceImageActor.uasset'
+[2024.10.08-09.06.19:901][987]AssetCheck: New page: Asset Save: diceImageActor
+[2024.10.08-09.06.19:901][987]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.06.25:594][636]BlueprintLog: New page: Compile diceImageActor
+[2024.10.08-09.06.25:659][636]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2024.10.08-09.06.26:627][709]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceImageActor170C612241A4CD3913448796F6D5E202.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceImageActor.uasset'
+[2024.10.08-09.06.26:645][709]AssetCheck: New page: Asset Save: diceImageActor
+[2024.10.08-09.06.26:645][709]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.06.35:372][718]BlueprintLog: New page: Compile diceImageActor
+[2024.10.08-09.06.35:436][718]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2024.10.08-09.06.37:546][890]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceImageActor26636315498204714745AC87337B9409.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceImageActor.uasset'
+[2024.10.08-09.06.37:563][890]AssetCheck: New page: Asset Save: diceImageActor
+[2024.10.08-09.06.37:563][890]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.06.41:361][302]BlueprintLog: New page: Compile diceImageActor
+[2024.10.08-09.06.41:425][302]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2024.10.08-09.06.42:710][403]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/diceImageActor242B697E422F51F06326F98451B3CE6B.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/diceImageActor.uasset'
+[2024.10.08-09.06.42:728][403]AssetCheck: New page: Asset Save: diceImageActor
+[2024.10.08-09.06.42:728][403]LogContentValidation: Display: Validating Blueprint /Game/BasicItems/Props/dice/diceImageActor.diceImageActor
+[2024.10.08-09.07.03:453][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.10.08-09.07.08:088][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2024.10.08-09.07.08:239][ 84]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.07.08:239][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.07.08:284][ 84]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.07.08:285][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.07.08:298][ 84]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.07.08:298][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.07.08:393][ 84]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat
+[2024.10.08-09.07.08:975][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2024.10.08-09.07.09:058][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2024.10.08-09.07.09:092][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.08-09.07.11:918][257]LogContentBrowser: Deferred new asset file creation: dice_RT_Mat
+[2024.10.08-09.07.11:938][257]LogContentBrowser: Creating deferred item: dice_RT_Mat
+[2024.10.08-09.07.15:396][654]LogContentBrowser: Attempting asset rename: dice_RT_Mat -> dice_RT_Mat
+[2024.10.08-09.07.15:405][654]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 63E2E6C140612FD589EF4A78BFCEE5A63A6AFB98), compiling. 
+[2024.10.08-09.07.15:409][654]LogContentBrowser: End creating deferred item dice_RT_Mat
+[2024.10.08-09.07.15:422][655]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.08-09.07.15:422][655]LogShaderCompilers: Display: Total job queries 344, among them cache hits 144 (41.86%)
+[2024.10.08-09.07.15:422][655]LogShaderCompilers: Display: Tracking 200 distinct input hashes that result in 103 distinct outputs (51.50%)
+[2024.10.08-09.07.15:422][655]LogShaderCompilers: Display: RAM used: 0.48 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2024.10.08-09.07.15:422][655]LogShaderCompilers: Display: ================================================
+[2024.10.08-09.07.16:920][775]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat
+[2024.10.08-09.07.16:921][775]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: DCB58B9B73D15B2849AD1A4649FD68152B5B3802), compiling. 
+[2024.10.08-09.07.16:996][775]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C3118CFB5F296FEA04BBB44E600DEEB2F7889663), compiling. 
+[2024.10.08-09.07.17:000][775]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 01A3A7AF98CEEB301F70177FDD195AF073B011A4), compiling. 
+[2024.10.08-09.07.17:003][775]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B4A28B3AFBC675F0915C687F06AEDE319BDA819A), compiling. 
+[2024.10.08-09.07.17:022][775]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.17:022][775]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.17:022][775]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.17:095][777]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.07.17:095][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.07.17:095][777]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.07.17:095][777]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.07.17:095][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.17:095][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.21:968][287]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 03FB191894A8191FD7AEAD00659C81BF328F6034), compiling. 
+[2024.10.08-09.07.21:980][287]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.21:980][287]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.21:980][287]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.22:012][289]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.07.22:012][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.22:012][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.22:024][290]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.07.22:024][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.07.22:024][290]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.07.22:024][290]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.07.22:024][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.22:024][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.23:939][495]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 11DFCE73763717B978E97B6CF6BFAF3A29DEB3FE), compiling. 
+[2024.10.08-09.07.23:951][495]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.23:951][495]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.23:951][495]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.23:981][497]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.07.23:981][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.23:981][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.24:009][498]MaterialEditorStats: Base pass shader: 120 instructions
+[2024.10.08-09.07.24:009][498]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2024.10.08-09.07.24:009][498]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2024.10.08-09.07.24:009][498]MaterialEditorStats: Texture samplers: 3/16
+[2024.10.08-09.07.24:009][498]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.24:009][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.25:293][644]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 06E702CBB8947EF3ED5BA4B2CD429060C52BCAEF), compiling. 
+[2024.10.08-09.07.25:298][644]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 9EEAEB2E252E88D7D667C2DA1E2B10DD4D1163A2), compiling. 
+[2024.10.08-09.07.25:302][644]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: D768106A595C7DA59F3083420DC5FCEB5DD209AB), compiling. 
+[2024.10.08-09.07.25:312][644]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.25:312][644]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.25:312][644]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.25:348][647]MaterialEditorStats: Base pass shader: 76 instructions
+[2024.10.08-09.07.25:348][647]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 103 instructions
+[2024.10.08-09.07.25:348][647]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.07.25:348][647]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.07.25:348][647]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.25:348][647]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.31:381][331]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E92A2418E61DC3112504C2439141ED187B85258B), compiling. 
+[2024.10.08-09.07.31:385][331]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7577F49DA1212D109A15B865D783D030D2090FC9), compiling. 
+[2024.10.08-09.07.31:387][331]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E8A006A2D0CFB638BB34EF99B699233011D70FB6), compiling. 
+[2024.10.08-09.07.31:392][331]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.31:392][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.31:392][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.31:423][333]MaterialEditorStats: Base pass shader: 76 instructions
+[2024.10.08-09.07.31:423][333]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 103 instructions
+[2024.10.08-09.07.31:423][333]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.07.31:423][333]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.07.31:423][333]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.31:423][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.34:511][689]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0EFB808B93283862B12FFAE1CCDA0F8D9EEF2C4E), compiling. 
+[2024.10.08-09.07.34:517][689]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.34:517][689]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.34:517][689]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.34:553][692]MaterialEditorStats: Base pass shader: 80 instructions
+[2024.10.08-09.07.34:553][692]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 107 instructions
+[2024.10.08-09.07.34:553][692]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.07.34:553][692]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.07.34:553][692]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.34:553][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.37:004][959]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 6BA3D6A4DB26BEA05C95365479CBFA883A0E6AB4), compiling. 
+[2024.10.08-09.07.37:006][959]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A36F638365ECE7136FD0B20CAB6C07A2A6149273), compiling. 
+[2024.10.08-09.07.37:010][959]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.37:010][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.37:010][959]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.37:058][962]MaterialEditorStats: Base pass shader: 81 instructions
+[2024.10.08-09.07.37:059][962]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 108 instructions
+[2024.10.08-09.07.37:059][962]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.07.37:059][962]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.07.37:059][962]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.37:059][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.39:536][207]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BB60E862307183D57AC3F14FCACC3A110A91AC18), compiling. 
+[2024.10.08-09.07.39:539][207]MaterialEditorStats: Texture samplers: 0/16
+[2024.10.08-09.07.39:539][207]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.39:539][207]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.39:574][210]MaterialEditorStats: Base pass shader: 79 instructions
+[2024.10.08-09.07.39:574][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2024.10.08-09.07.39:574][210]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2024.10.08-09.07.39:574][210]MaterialEditorStats: Texture samplers: 4/16
+[2024.10.08-09.07.39:574][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2024.10.08-09.07.39:574][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.10.08-09.07.41:251][377]LogMaterialEditor: Saving and Compiling material dice_RT_Mat
+[2024.10.08-09.07.41:493][377]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A8DC0BE4C097DAB680278D31DAE636B1466CD1FD), compiling. 
+[2024.10.08-09.07.41:540][377]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C241470BB80ACCB06AFE2EEBA9BF4E9425082B6E), compiling. 
+[2024.10.08-09.07.41:599][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.10.08-09.07.41:755][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.10.08-09.07.41:854][377]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice_RT_Mat174690B24C4FE2D719F2D9BC72BB386F.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/BasicItems/Props/dice/dice_RT_Mat.uasset'
+[2024.10.08-09.07.41:873][377]AssetCheck: New page: Asset Save: dice_RT_Mat
+[2024.10.08-09.07.41:873][377]LogContentValidation: Display: Validating Material /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat
+[2024.10.08-09.07.42:955][498]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.07.42:955][498]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.07.57:862][783]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-09.08.06:782][691]LogMaterial: Display: Missing cached shadermap for dice_RT_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BE73535907A478B84AF9DA281968BE01EC427F43), compiling. 
+[2024.10.08-09.08.12:334][324]BlueprintLog: New page: Compile BP_MenuWidget
+[2024.10.08-09.08.12:381][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2024.10.08-09.08.13:238][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu_UI/BP_MenuWidget" FILE="../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset" SILENT=true
+[2024.10.08-09.08.13:246][402]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/BP_MenuWidget6FF340FF4790DA6352A6D08033023F05.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/Menu_UI/BP_MenuWidget.uasset'
+[2024.10.08-09.08.13:265][402]AssetCheck: New page: Asset Save: BP_MenuWidget
+[2024.10.08-09.08.13:265][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu_UI/BP_MenuWidget.BP_MenuWidget
+[2024.10.08-09.08.13:919][456]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.08-09.08.13:925][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.08-09.08.13:925][456]PIE: New page: PIE session: Minimal_Default (2024. okt. 8. 13:08:13)
+[2024.10.08-09.08.13:925][456]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-09.08.13:929][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003565s)
+[2024.10.08-09.08.13:930][456]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.10.08-09.08.13:930][456]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2024.10.08-09.08.13:930][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.004867s)
+[2024.10.08-09.08.13:973][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2024.10.08-09.08.13:973][456]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.08-09.08.13:973][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.08-09.08.13:973][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.08-09.08.13:974][456]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.08-09.08.13:974][456]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.08-09.08.13:974][456]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.08-09.08.13:974][456]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.08-09.08.13:977][456]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.08-09.08.13:977][456]LogAudioMixer: Display: 1: FrontRight
+[2024.10.08-09.08.13:982][456]LogAudioMixer: Display: Using Audio Device Hangszórók (Realtek Audio)
+[2024.10.08-09.08.13:983][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.08-09.08.13:983][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.08-09.08.13:983][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.08-09.08.13:983][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.08-09.08.13:983][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.08-09.08.13:983][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.08-09.08.13:985][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.08-09.08.13:985][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.08-09.08.13:985][456]LogInit: FAudioDevice initialized.
+[2024.10.08-09.08.13:985][456]LogAudio: Display: Audio Device (ID: 27) registered with world 'Minimal_Default'.
+[2024.10.08-09.08.14:047][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-09.08.14:048][456]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2024.10.08-09.08.14:051][456]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.10.08-11.08.14
+[2024.10.08-09.08.14:051][456]LogWorld: Bringing up level for play took: 0.001670
+[2024.10.08-09.08.14:051][456]LogOnline: OSS: Creating online subsystem instance for: :Context_55
+[2024.10.08-09.08.14:055][456]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.08.14:055][456]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-09.08.14:055][456]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-09.08.14:055][456]LogBlueprintUserMessages: [Chair_Blueprint] C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.08.14:055][456]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.08.14:055][456]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.08.14:055][456]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-09.08.14:055][456]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.08.14:055][456]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.08.14:055][456]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj
+[2024.10.08-09.08.14:055][456]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.08.14:055][456]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\flower\flower_.obj".
+[2024.10.08-09.08.14:055][456]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.08.14:055][456]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.08.14:055][456]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj
+[2024.10.08-09.08.14:055][456]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.08.14:056][456]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\Boots.obj".
+[2024.10.08-09.08.14:056][456]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.08.14:056][456]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.08.14:056][456]LogAssimp: Load C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj
+[2024.10.08-09.08.14:056][456]LogAssimp: Assimp 5.2.2597224867 amd64 msvc shared singlethreadedsingle : 
+[2024.10.08-09.08.14:056][456]LogAssimp: Error: Unable to open file "C:\Users\Patay Viki\onlab\ASSIMP-UE-demo-tutorial\assetFiles\donut_Texture\donut.obj".
+[2024.10.08-09.08.14:056][456]LogAssimp: Error: Error importing scene in assimpfunction library 
+[2024.10.08-09.08.14:056][456]LogBlueprintUserMessages: [Chair_Blueprint] 0
+[2024.10.08-09.08.14:058][456]PIE: Server logged in
+[2024.10.08-09.08.14:060][456]PIE: Play in editor total start time 0,135 seconds.
+[2024.10.08-09.09.40:837][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.08-09.09.40:837][143]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.10.08-09.09.40:837][143]LogSlate: Window 'AssimpProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2024.10.08-09.09.40:850][143]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.10.08-09.09.40:850][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.09.40:862][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.08-09.09.40:884][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.08-09.09.40:923][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.08-09.09.40:925][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-09.09.40:925][143]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.08-09.09.40:936][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2024.10.08-09.09.41:127][144]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2024.10.08-09.10.07:049][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2024.10.08-09.10.07:049][221]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.040
+[2024.10.08-09.10.07:050][221]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BasicItems/Props/dice/dice_RT_Mat] ([1] browsable assets)...
+[2024.10.08-09.10.07:056][221]OBJ SavePackage:     Rendered thumbnail for [Material /Game/BasicItems/Props/dice/dice_RT_Mat.dice_RT_Mat]
+[2024.10.08-09.10.07:056][221]OBJ SavePackage: Finished generating thumbnails for package [/Game/BasicItems/Props/dice/dice_RT_Mat]
+[2024.10.08-09.10.07:059][221]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/dice_RT_Mat_Auto3D4876838418E2441F29DDCBA789B590C.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Autosaves/Game/BasicItems/Props/dice/dice_RT_Mat_Auto3.uasset'
+[2024.10.08-09.10.07:060][221]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.10.08-09.11.30:933][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.08-09.11.30:945][659]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default1467C886401F814D1455508339493161.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2024.10.08-09.11.31:005][659]LogSavePackage: Moving '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Saved/Minimal_Default_BuiltData4BD417A042A91A1B400EF19622CE9A41.tmp' to '../../../../../../Users/Patay Viki/Szakdoga/ASSIMP-UE-demo-tutorial/AssimpProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2024.10.08-09.11.31:030][659]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.08-09.11.31:030][659]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2024.10.08-09.11.31:030][659]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
