@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AssimpProject-0464.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\AssimpProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\AssimpProject.cpp.obj"
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\AssimpProjectGameModeBase.cpp.obj"
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\AssimpProject.init.gen.cpp.obj"
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\AssimpProjectGameModeBase.gen.cpp.obj"
+"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\Default.rc2.res"
+/OUT:"C:\Users\Patay Viki\Szakdoga\ASSIMP-UE-demo-tutorial\AssimpProject\Intermediate\Build\Win64\UE4Editor\Development\AssimpProject\UE4Editor-AssimpProject-0464.lib"
