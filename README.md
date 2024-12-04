@@ -1,35 +1,33 @@
 # ASSIMP-UE-demo-tutorial
-ASSIMP plugin tesztelése Unreal Engine-hez
+# Telepítési útmutató
 
-## Clone the project
-- In git bash:
-    ```
-    git clone --recurse-submodules https://github.com/Pikike/ASSIMP-UE-demo-tutorial
-    ```
+Az alábbi telepítési útmutató részletesn leírja, hogy miket kell telepíteni, vagy módosítani a játék működéséhez.
 
-### Import assets:
-- This algorithm works on triangle meshes only
-- Couldn't import .max
-- Import files from dt_assets data table.
+## Első lépések
+Miután a projekt le lett klónozva, el kell navigálni a projekt gyökérkönyvárából a Plugins mappába, aminek az útvonala:
+AssimpProjekt\Plugins
 
-### Data table dt_assets columns: 
-- filename: String. Filename with the path to the file.
-- scale: float. Scale X, Y, Z, with this float.
-- flip uvs: boolean. Set true if Post Process Flip UVs flag should be added. 
+Ha a Plugins mappa üres, akkor a továbbiakban az Assimp plugin fordítása bekezdést kell végrehajtani, majd a Játékok elérésével kell folytatni. Ha az Plugins mappában találhatóak fájlok, akkor elegendő a Játékok elérésével folytatni.
 
+## Assimp plugin fordítása
 
-### Blueprint:
-- Only the scync branch is corrected.
-- Open Chair_Blueprint to open the blueprint.
+Az Assimp plugint az alábbi útmutató segítségével lehet hozzáadni a projekthez:
+- Először meg kell nyitni az .uprojekt fájlt és hozzá kell adni egy C++ osztályt. Ezt a File/New C++ Class menüből lehet kiválasztani, majd a szülő osztálynak a None-t kell választani, így lesz egy üres C++ osztályunk. Ha az osztály létrejött megnyílik egy Visual Studio ablakban, és az Unreal Engine-t be is lehet egyenlőre zárni.
+- A Plugins mappából Git Bash segítségével ki kell adni az alábbi parancsot:
 
-    ![alt text](image.png)
+    ``` git clone --recurse-submodules https://github.com/irajsb/UE4_Assimp/ ```
+- Ha nem látszik a Git Bash opció, akkor telepíteni kell a Gitet a hivatalos Git weboldalról.
+- Az előző lépés sikeres volt, ha Plugins könyvtár megtelik fájlokkal: ha a következő könyvtár megtelik fájlokkal:
+Plugins\UE4_Assimp\Source\ThirdParty\UE_AssimpLibrary\assimp
+- A fenti elérési utvonallal megadott könyvtárból terminál segítségével ki kell adni az alábbi parancsot:
 
-### Forrás:
-- [GitHub](https://github.com/irajsb/UE4_Assimp/wiki/How-To-Build)
-- [CMake](https://cmake.org/download/): add the path to Environment variable, if needed. 
+    ``` cmake CMakeLists.txt -DLIBRARY_SUFFIX:STRING=```
+- Ezután a generált fájlt ( windows platformon .sln) fájlt meg kell nyitni
+-Itt ki kell választani a  Release build configuration x64 opciót és le kell fordítani a projektet.
+- Végül a projekt gyökerében lévő .sln fájlt is le kell fordítani.
 
-
-
+## Játékok elérése
+Az AssimpProjekt.uproject megnyitása után el kell navigálni az Content Browser-ben a következő mappába: Content/Assimp/JatekElem. Itt a DTJatekElem adattáblát kell megnyitni. Itt a tábla path oszlobában lévő értékeket kell kiegészíteni a leklónozott projekt elérési útvonalával. Ezt az első '\\' jel elé kell írni. Majd a tábla mentése után futtatható is a játék. 
 
   
 
