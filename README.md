@@ -1,5 +1,5 @@
 # ASSIMP-UE-demo-tutorial
-# Telepítési útmutató
+# Telepítési útmutató Unreal Engone 4.27-hez
 
 Az alábbi telepítési útmutató részletesn leírja, hogy miket kell telepíteni, vagy módosítani a játék működéséhez.
 
